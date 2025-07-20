@@ -229,11 +229,16 @@
         // Load data from CSV file
         async function loadDataFromFile() {
             try {
-                const fileContent = await window.fs.readFile('tillman-project.csv', { encoding: 'utf8' });
+                // Try to fetch CSV from the same directory as the HTML file
+                const response = await fetch('./powerappstest.csv');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const fileContent = await response.text();
                 await parseCSVData(fileContent);
                 console.log(`Loaded ${currentData.length} projects from CSV file`);
             } catch (error) {
-                console.warn('Could not load CSV file from memory:', error.message);
+                console.warn('Could not load CSV file:', error.message);
                 loadDataFromStorage();
             }
         }
