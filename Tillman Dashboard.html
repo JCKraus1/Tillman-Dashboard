@@ -463,7 +463,7 @@
         async function loadDataFromFile() {
             try {
                 // Try to fetch CSV from the same directory as the HTML file
-                const response = await fetch('./tillman-dashboard.csv');
+                const response = await fetch('./tillman-project.csv');
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
