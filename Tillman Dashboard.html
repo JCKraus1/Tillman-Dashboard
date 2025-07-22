@@ -144,7 +144,20 @@
                     <div style="display: flex; gap: 8px;">
                         <button class="btn btn-primary" onclick="refreshData()">🔄 Refresh</button>
                         <button class="btn btn-success" onclick="exportData()">📥 Export</button>
+                        <button class="btn" style="background: #ef4444; color: white;" onclick="clearLocalStorage()">🗑️ Clear Cache</button>
                     </div>
+                </div>
+                <div class="control-group">
+                    <label>Auto-Refresh</label>
+                    <select id="autoRefreshSelect" onchange="setAutoRefresh()">
+                        <option value="0">Manual Only</option>
+                        <option value="30">Every 30 seconds</option>
+                        <option value="60">Every 1 minute</option>
+                        <option value="300">Every 5 minutes</option>
+                        <option value="600">Every 10 minutes</option>
+                        <option value="1800">Every 30 minutes</option>
+                    </select>
+                    <div id="autoRefreshStatus" style="font-size: 12px; color: #6b7280; margin-top: 4px;"></div>
                 </div>
             </div>
             <div id="errorMessage" class="error" style="display: none;"></div>
@@ -391,6 +404,8 @@
         let currentData = [];
         let filteredData = [];
         let charts = {};
+        let autoRefreshInterval = null;
+        let autoRefreshCountdown = null;
 
         // Tab switching function
         function switchTab(tabName) {
@@ -457,6 +472,120 @@
             updateLastUpdated();
             updateFilters();
             updateDashboard();
+            checkDataAge(); // Check if data is stale
+        }
+
+        // Check if localStorage data is stale and needs refreshing
+        function checkDataAge() {
+            const lastUpdated = localStorage.getItem('tillman-last-updated');
+            if (lastUpdated) {
+                const lastUpdatedDate = new Date(lastUpdated);
+                const now = new Date();
+                const hoursSinceUpdate = (now - lastUpdatedDate) / (1000 * 60 * 60);
+                
+                // Show warning if data is older than 4 hours
+                if (hoursSinceUpdate > 4) {
+                    const errorMessage = document.getElementById('errorMessage');
+                    errorMessage.style.display = 'block';
+                    errorMessage.style.background = '#fef3c7';
+                    errorMessage.style.color = '#92400e';
+                    errorMessage.textContent = `⚠️ Data is ${Math.round(hoursSinceUpdate)} hours old. Consider refreshing for latest information.`;
+                    
+                    setTimeout(() => {
+                        errorMessage.style.display = 'none';
+                    }, 8000);
+                }
+            }
+        }
+
+        // Clear localStorage cache
+        function clearLocalStorage() {
+            if (confirm('Are you sure you want to clear all cached data? This will remove stored project data and you\'ll need to upload a file again.')) {
+                localStorage.removeItem('tillman-project-data');
+                localStorage.removeItem('tillman-last-updated');
+                currentData = [];
+                filteredData = [];
+                updateDashboard();
+                
+                const errorMessage = document.getElementById('errorMessage');
+                errorMessage.style.display = 'block';
+                errorMessage.style.background = '#d1fae5';
+                errorMessage.style.color = '#065f46';
+                errorMessage.textContent = '✅ Cache cleared successfully. Please upload a new data file.';
+                
+                setTimeout(() => {
+                    errorMessage.style.display = 'none';
+                }, 3000);
+            }
+        }
+
+        // Set up auto-refresh functionality
+        function setAutoRefresh() {
+            const select = document.getElementById('autoRefreshSelect');
+            const seconds = parseInt(select.value);
+            const statusDiv = document.getElementById('autoRefreshStatus');
+            
+            // Clear existing intervals
+            if (autoRefreshInterval) {
+                clearInterval(autoRefreshInterval);
+                autoRefreshInterval = null;
+            }
+            if (autoRefreshCountdown) {
+                clearInterval(autoRefreshCountdown);
+                autoRefreshCountdown = null;
+            }
+            
+            if (seconds > 0) {
+                let remainingSeconds = seconds;
+                
+                // Set up the refresh interval
+                autoRefreshInterval = setInterval(async () => {
+                    console.log('Auto-refreshing data...');
+                    try {
+                        await refreshData();
+                    } catch (error) {
+                        console.error('Auto-refresh failed:', error);
+                    }
+                    remainingSeconds = seconds; // Reset countdown
+                }, seconds * 1000);
+                
+                // Set up the countdown display
+                autoRefreshCountdown = setInterval(() => {
+                    remainingSeconds--;
+                    if (remainingSeconds <= 0) {
+                        remainingSeconds = seconds;
+                    }
+                    
+                    const minutes = Math.floor(remainingSeconds / 60);
+                    const secs = remainingSeconds % 60;
+                    const timeStr = minutes > 0 ? `${minutes}m ${secs}s` : `${secs}s`;
+                    statusDiv.textContent = `Next refresh in: ${timeStr}`;
+                }, 1000);
+                
+                statusDiv.textContent = `Auto-refresh enabled (${formatRefreshInterval(seconds)})`;
+            } else {
+                statusDiv.textContent = '';
+            }
+            
+            // Save preference
+            localStorage.setItem('auto-refresh-interval', seconds.toString());
+        }
+
+        // Format refresh interval for display
+        function formatRefreshInterval(seconds) {
+            if (seconds < 60) return `${seconds}s`;
+            if (seconds < 3600) return `${seconds / 60}m`;
+            return `${seconds / 3600}h`;
+        }
+
+        // Load auto-refresh preference on startup
+        function loadAutoRefreshPreference() {
+            const saved = localStorage.getItem('auto-refresh-interval');
+            if (saved) {
+                const select = document.getElementById('autoRefreshSelect');
+                select.value = saved;
+                setAutoRefresh();
+            }
         }
 
         // Load data from Excel or CSV file
@@ -793,6 +922,10 @@
                 refreshButton.textContent = '🔄 Loading...';
                 refreshButton.disabled = true;
                 
+                // Force clear localStorage and reload fresh data
+                localStorage.removeItem('tillman-project-data');
+                localStorage.removeItem('tillman-last-updated');
+                
                 await loadDataFromFile();
                 updateLastUpdated();
                 updateFilters();
@@ -825,6 +958,9 @@
             document.getElementById('areaFilter').addEventListener('change', applyFilters);
             document.getElementById('statusFilter').addEventListener('change', applyFilters);
             document.getElementById('fileInput').addEventListener('change', handleFileUpload);
+            
+            // Load auto-refresh preference after a short delay
+            setTimeout(loadAutoRefreshPreference, 500);
         }
 
         // Update last updated timestamp
