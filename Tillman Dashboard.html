@@ -549,8 +549,14 @@
                     console.log(`No project sheet found, using first sheet: ${sheetName}`);
                 }
                 
-                // Convert to JSON
-                const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
+                // Convert to JSON with date handling
+                const jsonData = XLSX.utils.sheet_to_json(worksheet, { 
+                    header: 1,
+                    dateNF: 'MM/DD/YYYY',  // Format dates consistently
+                    cellDates: true,       // Parse dates as Date objects
+                    raw: false            // Don't use raw values, format them
+                });
+                
                 console.log(`Sheet "${sheetName}" - Excel data rows:`, jsonData.length);
                 
                 if (jsonData.length < 2) {
@@ -573,40 +579,84 @@
                 for (let i = 1; i < jsonData.length; i++) {
                     const row = {};
                     headers.forEach((header, index) => {
-                        // Handle various data types from Excel
                         let value = jsonData[i][index];
+                        
+                        // Enhanced data type handling for Excel
                         if (value === null || value === undefined) {
                             value = '';
-                        } else if (typeof value === 'number') {
-                            value = value.toString();
                         } else if (value instanceof Date) {
-                            value = value.toLocaleDateString();
+                            // Format dates consistently
+                            value = value.toLocaleDateString('en-US', { 
+                                year: 'numeric', 
+                                month: '2-digit', 
+                                day: '2-digit' 
+                            });
+                        } else if (typeof value === 'number') {
+                            // Check if this is likely an Excel date number
+                            const headerLower = (header || '').toString().toLowerCase();
+                            if (headerLower.includes('date') && value > 40000 && value < 50000) {
+                                // Excel date serial number - convert to proper date
+                                const excelDate = XLSX.SSF.parse_date_code(value);
+                                if (excelDate) {
+                                    const jsDate = new Date(excelDate.y, excelDate.m - 1, excelDate.d);
+                                    value = jsDate.toLocaleDateString('en-US', { 
+                                        year: 'numeric', 
+                                        month: '2-digit', 
+                                        day: '2-digit' 
+                                    });
+                                } else {
+                                    value = value.toString();
+                                }
+                            } else if (headerLower.includes('cost') || headerLower.includes('footage')) {
+                                // Keep numbers as strings but format properly
+                                value = value.toString();
+                            } else {
+                                value = value.toString();
+                            }
                         } else {
-                            value = value.toString();
+                            value = value.toString().trim();
                         }
+                        
                         row[header] = value;
                     });
                     
                     // More flexible check for valid rows - look for any of these key fields
                     const ntpNumber = row['NTP Number'] || row['NTP'] || row['Number'] || '';
+                    const area = row['AREA'] || row['Area'] || '';
+                    const supervisor = row['Assigned Supervisor'] || row['Supervisor'] || '';
+                    
                     const hasValidData = ntpNumber.toString().trim() !== '' || 
-                                       (row['AREA'] || row['Area'] || '').toString().trim() !== '' ||
-                                       (row['Assigned Supervisor'] || row['Supervisor'] || '').toString().trim() !== '';
+                                       area.toString().trim() !== '' ||
+                                       supervisor.toString().trim() !== '';
                     
                     if (hasValidData) {
                         const cleanRow = {
                             "NTP Number": ntpNumber.toString(),
-                            "AREA": (row["AREA"] || row["Area"] || "").toString(),
+                            "AREA": area.toString(),
                             "SOW TSD Date": (row["SOW TSD Date"] || row["TSD Date"] || "").toString(),
                             "Vendor Assignment": (row["Vendor Assignment"] || row["Vendor"] || "").toString(),
                             "Date Assigned": (row["Date Assigned"] || row["Assigned Date"] || "").toString(),
-                            "Assigned Supervisor": (row["Assigned Supervisor"] || row["Supervisor"] || "").toString(),
+                            "Assigned Supervisor": supervisor.toString(),
                             "SOW Estimated Cost": (row["SOW Estimated Cost"] || row["Cost"] || row["Estimated Cost"] || "").toString(),
                             "Constuction Status": (row["Constuction Status"] || row["Construction Status"] || row["Status"] || "").toString(),
                             "Footage UG": (row["Footage UG"] || row["Footage"] || "").toString(),
                             "Actual Redline Completed Footage UG": (row["Actual Redline Completed Footage UG"] || row["Completed Footage"] || "").toString(),
                             "UG Percentage Complete": (row["UG Percentage Complete"] || row["Percentage Complete"] || row["Complete"] || "0%").toString()
                         };
+                        
+                        // Clean up percentage values
+                        if (cleanRow["UG Percentage Complete"] && !cleanRow["UG Percentage Complete"].includes('%')) {
+                            const numValue = parseFloat(cleanRow["UG Percentage Complete"]);
+                            if (!isNaN(numValue)) {
+                                // If it's a decimal (0.75), convert to percentage (75%)
+                                if (numValue <= 1) {
+                                    cleanRow["UG Percentage Complete"] = (numValue * 100) + '%';
+                                } else {
+                                    cleanRow["UG Percentage Complete"] = numValue + '%';
+                                }
+                            }
+                        }
+                        
                         data.push(cleanRow);
                         
                         // Log first few rows for debugging
