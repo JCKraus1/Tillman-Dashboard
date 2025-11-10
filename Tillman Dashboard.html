@@ -748,7 +748,7 @@
                     });
                     
                     // More flexible check for valid rows - look for any of these key fields
-                    const ntpNumber = row['NTP Number'] || row['NTP'] || row['Number'] || '';
+                    const ntpNumber = row['NTP Number'] || row['NTP'] || row['Number'] || row['Market 1 NTP Number'] || row['Market 2 NTP Number'] || row['Market 3 NTP Number'] || row['Market 6 NTP Number'] ||'';
                     const area = row['AREA'] || row['Area'] || '';
                     const supervisor = row['Assigned Supervisor'] || row['Supervisor'] || '';
                     
@@ -1876,7 +1876,7 @@
                 const cost = parseFloat((project['SOW Estimated Cost'] || '0').replace(/[",]/g, '')) || 0;
                 
                 // Get NTP Number with fallback options
-                const ntpNumber = project['NTP Number'] || project['NTP'] || project['Number'] || 'N/A';
+                const ntpNumber = project['NTP Number'] || project['NTP'] || project['Number'] || row['Market 1 NTP Number'] || row['Market 2 NTP Number'] || row['Market 3 NTP Number'] || row['Market 6 NTP Number'] || 'N/A';
 
                 row.innerHTML = `
                     <td>${ntpNumber}</td>
