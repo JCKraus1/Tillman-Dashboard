@@ -5,7 +5,6 @@ D-HPP627,Clearwater,46325,Brothers,46170,Marcelo,,97,On Track,Received,,,Yes,946
 D-HPP629,Clearwater,46325,Brothers,46170,Anthony,,51,On Track,Received,,,Yes,91700,Yes,In Process,46176,,,,,7529,7126,403,0.946473635276929,46191,,0,0,0,5/1 NTP Package Received.
 D-HPP630,Clearwater,46325,Brothers,46171,Marcelo,,67,On Track,Received,,,Yes,100866,Yes,In Process,46175,,,,,9021,8341,680,0.924620330340317,46195,,0,0,0,5/1 NTP Package Received.
 D-HPP631,Clearwater,46325,Brothers,46170,Treyvon,,93,On Track,Received,,,Yes,104934,Yes,In Process,46176,,,,,8701,5746,2955,0.660383863923687,46191,,0,0,0,5/1 NTP Package Received.
-D-HPP633,Clearwater,46325,Power Connect,46177,Johnnie,,70,On Track,Received,,,Yes,99590,Yes,In Process,46177,,,,,8201,7374,827,0.899158639190343,46195,,0,0,0,5/1 NTP Package Received.
 D-HPP634,Clearwater,46325,NIA Underground,46182,Johnnie,,91,On Track,Received,,,Yes,103644.5,Yes,In Process,46183,,,,,8384,4883,3501,0.582418893129771,46224,,0,0,0,5/11 NTP Package Received.
 D-HPP635,Clearwater,46325,NIA Underground,46182,Johnnie,,57,On Track,Received,,,Yes,106431.5,Yes,In Process,46183,,,,,8751,7047,1704,0.805279396640384,46216,,0,0,0,5/12 NTP Package Received.
 D-HPP636,Clearwater,46325,Brothers,46182,Anthony,,86,On Track,Received,,,Yes,97386.5,Yes,Locates Called,46188,,,,,7996,7365,631,0.921085542771386,46219,,0,0,0,5/1 NTP Package Received.
@@ -29,8 +28,10 @@ D-HLC511,Pinellas,46290,,,,,93,On Track,Received,,46224,Yes,72479.5,Yes,Locates 
 D-HLC512,Pinellas,46290,Brothers,46223,,,67,On Track,Received,,46226,Yes,86106.8,Yes,Locates Called,46226,,,,,7115,,7115,0,,,0,0,0,7/14 NTP Package Received
 D-HLC513,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112719,91,On Track,Received,,,Yes,79458,Yes,Not Started,,,,,,6519,,5454,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
 D-HLC514,Pinellas,46290,APT Communications  ,46219,Joshua Pacheco,PPM112724,83,On Track,Received,,46223,Yes,87651,Yes,Locates Called,46223,,,,,7199,,8272,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
+D-HLC516,Pinellas,46290,,,,,90,On Track,Received,,,No,,Yes,Not Started,,,,,,8970,,8970,0,,,0,0,0,7/31 NTP Package Received--Pending PO To Be Uploaded Into SiteTracker
 D-HLC517,Pinellas,46290,ASM Utilities,46219,Matthew Nunes,PPM112721,83,On Track,Received,,,Yes,79947,Yes,Not Started,,,,,,6058,,6058,0,,,0,0,0,7/14 NTP Package Received
 D-HLC518,Pinellas,46290,ASM Utilities,46219,Matthew Nunes,PPM112722,93,On Track,Received,,,Yes,74446.5,Yes,Not Started,,,,,,5775,,5775,0,,,0,0,0,7/14 NTP Package Received
+D-HLC519,Pinellas,46290,,,,,44,On Track,Received,,,No,,Yes,Not Started,,,,,,6969,,6969,0,,,,,,7/31 NTP Package Received--Pending PO To Be Uploaded Into SiteTracker
 FB-HPP314,Pinellas,46262,Legant Livings,46181,Joshua Pacheco,,0,On Track,Received,,46181,Yes,419,Yes,Locates Called,46178,,,,,72,,72,0,,,0,0,0,5/29 NTP Package Received--PO Received 6/1
 FB-HLC512,Pinellas,46290,Brothers,46223,,PPM112758,0,On Track,Received,,46225,Yes,71505.7,Yes,Locates Called,46225,,,,,5642,,2879,0,,,0,0,0,7/13 NTP Package Received
 FB-HLC519,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112720,0,On Track,Received,,,Yes,25127.05,Yes,Not Started,,,,,,2013,,2013,0,,,0,0,0,7/14 NTP Package Received
@@ -104,6 +105,7 @@ D-HSF308,Port Charlotte,46234,HD Cable,46210,,,68,On Track,Received,,,Yes,62074,
 D-HSF322,Port Charlotte,46172,Lopez Underground,46210,Joshua,,89,On Track,Received,,,Yes,81150,Yes,Locates Called,46148,,,,,6825,,6825,0,,,0,0,0,4/21 NTP Received.
 D-HSF401,Port Charlotte,46295,,,,,79,On Track,Received,,,Yes,75443.75,Yes,Not Started,,,,,,5953,,5953,0,,,0,0,0,7/24 PO Received.
 D-HSF402,Port Charlotte,46295,,,,,78,On Track,Received,,,Yes,72242,Yes,Not Started,,,,,,5890,,5890,0,,,0,0,0,7/24 PO Received.
+D-HSF419,Port Charlotte,46295,,,,,49,On Track,Received,,,No,,Yes,Not Started,,,,,,5185,,5185,0,,,0,0,0,7/31 NTP Package Received--Pending PO To Be Uploaded Into SiteTracker
 D-HSF420,Port Charlotte,,,,,,49,On Track,Pending,Permits,,No,,No,Not Started,,,,,,4709,,4709,0,,,0,0,0,6/17 Pending Permit and PO To Be Uploaded Into SiteTracker
 FB-HSF304,Port Charlotte,46172,Lightspeed In-House,46140,Joshua,,0,On Track,Received,,,Yes,33518.7,Yes,In Process,46140,,,,,3693,2153,1540,0.58299485513133,46146,,0,0,0,4/21 NTP Received.
 FB-HSF606,Port Charlotte,46111,,,,,0,On Track,Pending,SOW Pending,,No,,No,Not Started,,,,,,,,0,0,,,0,0,0,2/19 Pending NTP Package and SOW.
