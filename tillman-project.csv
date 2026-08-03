@@ -15,7 +15,7 @@ D-HNP108/D-H0102E,St Petersburg,46080,Kattle One/LSCG,46018,Johnnie,PPM91941,89,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Market 1 NTP Number Pinellas,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-D-HPP303,Pinellas,46262,R&F Underground Construction Inc,46171,Joshua Pacheco,,35,On Track,Received,,46183,Yes,98498,Yes,In Process,46183,,,,,7699,7658,41,0.99467463306923,46195,,0,0,0,5/29 NTP Package Received--PO Received 6/1
+D-HPP303,Pinellas,46262,R&F Underground Construction Inc,46171,Joshua Pacheco,,35,On Track,Received,,46183,Yes,98498,Yes,In Process,46183,,,,,7699,7716,-17,1.0022080789713,46195,,0,0,0,5/29 NTP Package Received--PO Received 6/1
 D-HPP305,Pinellas,46262,HDD Underground / R&F Underground Construction Inc,46178,Matthew Nunes,,87,On Track,Received,,46178,Yes,77365.5,Yes,In Process,46178,,,,,6321,6271,50,0.992089859199494,46191,,0,0,0,6/24 Job reassgned to R&F after HDD was removed from the project -- 6/4 NTP Package Received
 D-HPP311,Pinellas,46262,Legant Livings,46181,Joshua Pacheco,,85,On Track,Received,,46181,Yes,62709,Yes,In Process,46178,,,,,5055,5090,-35,1.00692383778437,46188,,0,0,0,5/29 NTP Package Received--PO Received 6/1
 D-HPP314,Pinellas,46262,Power Connect,46197,Matthew Nunes,MAN112114,69,On Track,Received,,46198,Yes,99986.2,Yes,Locates Called,46198,,,,,8137,,8137,0,,,0,0,0,6/18 NTP Package Received...6-29-26 permit called in
@@ -28,10 +28,10 @@ D-HLC511,Pinellas,46290,Full Circle/LSCG,46223,Treyvon Tillman,,93,On Track,Rece
 D-HLC512,Pinellas,46290,Brothers,46223,Anthony Adum,,67,On Track,Received,,46226,Yes,86106.8,Yes,Locates Called,46226,,,,,7115,,7115,0,,,0,0,0,7/14 NTP Package Received
 D-HLC513,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112719,91,On Track,Received,,,Yes,79458,Yes,Not Started,,,,,,6519,,5454,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
 D-HLC514,Pinellas,46290,APT Communications  ,46219,Joshua Pacheco,PPM112724,83,On Track,Received,,46223,Yes,87651,Yes,Locates Called,46223,,,,,7199,,8272,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
-D-HLC516,Pinellas,46290,,,,,90,On Track,Received,,,No,,Yes,Not Started,,,,,,8970,,8970,0,,,0,0,0,7/31 NTP Package Received--Pending PO To Be Uploaded Into SiteTracker
+D-HLC516,Pinellas,46290,,,,,90,On Track,Received,,,Yes,113855.5,Yes,Not Started,,,,,,8970,,8970,0,,,0,0,0,7/31 NTP Package Received.
 D-HLC517,Pinellas,46290,ASM Utilities,46219,Matthew Nunes,PPM112721,83,On Track,Received,,,Yes,79947,Yes,Not Started,,,,,,6058,,6058,0,,,0,0,0,7/14 NTP Package Received
 D-HLC518,Pinellas,46290,ASM Utilities,46219,Matthew Nunes,PPM112722,93,On Track,Received,,,Yes,74446.5,Yes,Not Started,,,,,,5775,,5775,0,,,0,0,0,7/14 NTP Package Received
-D-HLC519,Pinellas,46290,Brothers,46223,Anthony Adum,,44,On Track,Received,,,No,,Yes,Not Started,,,,,,6969,,6969,0,,,,,,7/31 NTP Package Received--Pending PO To Be Uploaded Into SiteTracker
+D-HLC519,Pinellas,46290,Brothers,46223,Anthony Adum,,44,On Track,Received,,,Yes,84001.5,Yes,Not Started,,,,,,6969,,6969,0,,,,,,7/31 NTP Package Received.
 FB-HPP314,Pinellas,46262,Power Connect,46181,Joshua Pacheco,,0,On Track,Received,,46181,Yes,419,Yes,Locates Called,46178,,,,,72,,72,0,,,0,0,0,5/29 NTP Package Received--PO Received 6/1
 FB-HLC512,Pinellas,46290,Brothers,46223,Anthony Adum,PPM112758,0,On Track,Received,,46225,Yes,71505.7,Yes,Locates Called,46225,,,,,5642,,2879,0,,,0,0,0,7/13 NTP Package Received
 FB-HLC519,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112720,0,On Track,Received,,,Yes,25127.05,Yes,Not Started,,,,,,2013,,2013,0,,,0,0,0,7/14 NTP Package Received
@@ -50,9 +50,7 @@ BHUD-FOE-401-W,Bradenton,46295,North Path,46231,Brenton,MAN112893,0,On Track,Rec
 D-HLX408,Bradenton,46264,North Path,46233,Brenton,MAN112892,58,On Track,Received,,,Yes,71336.1,Yes,Locates Called,46234,,,,,5678,,5678,0,,,0,0,0,7/29 NTP Package Received.
 D-HLX502,Bradenton,46191,North Path,46171,Cody,,61,On Track,Received,,,Yes,44936,Yes,Locates Called,46146,,,,,3375,,3375,0,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
 D-HLX503,Bradenton,46181,North Path,46171,Cody,,85,On Track,Received,,,Yes,60062,Yes,In Process,46174,,,,,4380,4156,224,0.948858447488584,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
-D-HLX504,Bradenton,46191,North Path,46171,Cody,,86,Completed on Track,Received,,,Yes,64118,Yes,Completed,46174,,,,,4753,4738,15,0.996844098464128,46230,46234,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
 D-HLX505,Bradenton,46191,North Path,46171,Cody,,87,On Track,Received,,,Yes,64040,Yes,Locates Called,46174,,,,,4888,,4888,0,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
-D-HLX508,Bradenton,46191,North Path,46171,Cody,,55,Completed on Track,Received,,,Yes,45757.7,Yes,Completed,46174,,,,,3537,3397,140,0.960418433700876,46225,46227,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
 D-HLX510,Bradenton,46191,North Path,46171,Cody,,78,On Track,Received,,,Yes,58190,Yes,Locates Called,46174,,,,,4283,,4283,0,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
 FB-HLX175,Bradenton,46295,Lightspeed In-House,46225,Brenton,MAN112869,0,On Track,Received,,,Yes,36166.65,Yes,Locates Called,46226,,,,,3036,,3036,0,,,0,0,0,7/21 NTP Package Received
 FB-HOE179,Bradenton,46040,North Path,46125,Cody,MAN104758,0,On Track,Received,,,Yes,18171.6,Yes,Locates Called,46126,,,,,1514,,1514,0,,,0,0,0,10/27 FDOT Permit Received--NTP Package Missing The Fiber Details Splicing Document. 4-24-25 On hold per Tillman
@@ -69,8 +67,7 @@ D-HPW327,Fort Myers,46295,,,,,85,On Track,Received,,,Yes,78787,Yes,Not Started,,
 D-HPW328,Fort Myers,46295,,,,,84,On Track,Received,,,Yes,45941.5,Yes,Not Started,,,,,,3794,,3794,0,,,0,0,0,7/29 NTP Package Recived
 D-HPW329,Fort Myers,46295,,,,,71,On Track,Received,,,Yes,71012.5,Yes,Not Started,,,,,,5739,,5739,0,,,0,0,0,7/24 NTP Package Recived
 D-HPW330,Fort Myers,46295,,,,,80,On Track,Received,,,Yes,78742,Yes,Not Started,,,,,,6179,,6179,0,,,0,0,0,7/29 NTP Package Recived
-D-HPW337,Fort Myers,46242,,,,,77,On Track,Received,,,Yes,70699.5,Yes,Not Started,,,,,,5471,,5471,0,,,0,0,0,6/25 NTP Package Received.
-D-HPW338,Fort Myers,46208,Alpha Omega,46224,Joshua,FM112768,56,On Track,Received,,,Yes,38720,Yes,Not Started,,,,,,3134,,3134,0,,,0,0,0,5/21 NTP Package Received
+D-HPW337,Fort Myers,46242,Alpha Omega,46237,Joshua,,77,On Track,Received,,,Yes,70699.5,Yes,Not Started,,,,,,5471,,5471,0,,,0,0,0,6/25 NTP Package Received.
 D-HPW345,Fort Myers,46295,,,,,87,On Track,Received,,,Yes,93327,Yes,Not Started,,,,,,7138,,7138,0,,,0,0,0,7/29 NTP Package Recived.
 D-HPW346,Fort Myers,46295,,,,,89,On Track,Received,,,Yes,93910.15,Yes,Not Started,,,,,,7299,,7299,0,,,0,0,0,7/29 NTP Package Recived
 D-HPW348,Fort Myers,46295,,,,,83,On Track,Received,,,Yes,78322,Yes,Not Started,,,,,,6192,,6192,0,,,0,0,0,7/29 NTP Package Recived
@@ -85,7 +82,7 @@ D-HTG208,Fort Myers,46203,Lopez Underground,46141,Joshua,,74,On Track,Received,,
 D-HTG212,Fort Myers,46264,Gulfstream,46231,Joshua,FM112875,85,On Track,Received,,,Yes,64416.5,Yes,Locates Called,46232,,,,,5445,,5445,0,,,0,0,0,7/24 NTP Package Recived
 D-HTG213,Fort Myers,46295,HD Cable,46231,Joshua,FM112877,46,On Track,Received,,,Yes,54627.5,Yes,Locates Called,46232,,,,,4834,,4834,0,,,0,0,0,7/24 NTP Package Recived
 D-HTG214,Fort Myers,46295,HD Cable,46231,Joshua,FM112878,82,On Track,Received,,,Yes,77688.5,Yes,Locates Called,46232,,,,,6136,,6136,0,,,0,0,0,7/24 NTP Package Recived
-D-HTG215,Fort Myers,46264,Gulfstream,46219,Joshua,FM112727,56,On Track,Received,,,Yes,55008,Yes,In Process,46220,,,,,4625,1293,3332,0.279567567567568,46231,,0,0,0,7/7 NTP Package Received.
+D-HTG215,Fort Myers,46264,Gulfstream,46219,Joshua,FM112727,56,On Track,Received,,,Yes,55008,Yes,In Process,46220,,,,,4625,2401,2224,0.519135135135135,46231,,0,0,0,7/7 NTP Package Received.
 D-HTG216,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112879,79,On Track,Received,,,Yes,80274,Yes,Locates Called,46232,,,,,6786,,6786,0,,,0,0,0,7/24 NTP Package Recived
 D-HTG217,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112881,77,On Track,Received,,,Yes,76557.5,Yes,Locates Called,46232,,,,,6200,,6200,0,,,0,0,0,7/24 NTP Package Recived
 D-HTG218,Fort Myers,46233,Gulfstream,46219,Joshua,FM112751,48,On Track,Received,,,Yes,50669,Yes,In Process,46220,,,,,3600,3041,559,0.844722222222222,46226,,0,0,0,5/29 NTP Received
@@ -97,16 +94,15 @@ D-HTG238,Fort Myers,46203,Lopez Underground,46171,Joshua,,74,On Track,Received,,
 D-HTG305,Fort Myers,46203,,,,,56,On Track,Received,,,Yes,50042,Yes,Not Started,,,,,,4159,,4159,0,,,0,0,0,4/30 NTP Received.
 D-HTG307,Fort Myers,46203,HAS Global,46184,Joshua,,62,On Track,Received,,,Yes,48766,Yes,Locates Called,46185,,,,,4009,,4009,0,,,0,0,0,4/30 NTP Received.
 FB-HTG238,Fort Myers,46233,Lopez Underground,46213,Joshua,FM112420,0,On Track,Received,,,Yes,72557.35,Yes,In Process,46213,,,,,5666,4426,1240,0.781150723614543,,,0,0,0,6/15 NTP Package Received
-FB-HTG279,Fort Myers,46295,Lightspeed In-House,46231,Joshua,FM112884,0,On Track,Received,,,Yes,17689.15,Yes,Locates Called,46232,,,,,949,,949,0,,,0,0,0,7/24 NTP Package Recived
-FB-HTG288,Fort Myers,46203,Alpha Omega,46184,Joshua,,0,On Track,Received,,,Yes,75219.2,Yes,In Process,46189,,,,,5902,2776,3126,0.470349034225686,46210,,0,0,0,5/8 NTP Package Received
+FB-HTG279,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112884,0,On Track,Received,,,Yes,17689.15,Yes,Locates Called,46232,,,,,949,,949,0,,,0,0,0,7/24 NTP Package Recived
+FB-HTG288,Fort Myers,46203,Alpha Omega,46184,Joshua,,0,On Track,Received,,,Yes,75219.2,Yes,In Process,46189,,,,,5902,3313,2589,0.561335140630295,46210,,0,0,0,5/8 NTP Package Received
 FB-HTG292,Fort Myers,46234,Gulfstream,46212,Joshua,FM112413,0,On Track,Received,,,Yes,21849.3,Yes,In Process,46218,,,,,1618,1377,241,0.851050679851669,46224,,0,0,0,7/6 NTP Packafe Received
 Promenades At The Forum,Fort Myers,46172,APT Communications / New Gen Unlimited,,,,402,On Track,Not Required,,46092,Yes,438978.5,Yes,Locates Called,46091,,,,,30807,,30807,0,,,0,0,0,3/16/2026 on hold needs permit per tillman. 4/2 Pending Utility Permit From Tillman.
-D-HSF308,Port Charlotte,46234,HD Cable,46210,,,68,On Track,Received,,,Yes,62074,Yes,In Process,46211,,,,,5495,5308,187,0.965969062784349,46223,,0,0,0,6/17 NTP Package Received.
 D-HSF322,Port Charlotte,46172,Lopez Underground,46210,Joshua,,89,On Track,Received,,,Yes,81150,Yes,Locates Called,46148,,,,,6825,,6825,0,,,0,0,0,4/21 NTP Received.
 D-HSF401,Port Charlotte,46295,,,,,79,On Track,Received,,,Yes,75443.75,Yes,Not Started,,,,,,5953,,5953,0,,,0,0,0,7/24 PO Received.
 D-HSF402,Port Charlotte,46295,,,,,78,On Track,Received,,,Yes,72242,Yes,Not Started,,,,,,5890,,5890,0,,,0,0,0,7/24 PO Received.
-D-HSF419,Port Charlotte,46295,,,,,49,On Track,Received,,,No,,Yes,Not Started,,,,,,5185,,5185,0,,,0,0,0,7/31 NTP Package Received--Pending PO To Be Uploaded Into SiteTracker
-D-HSF420,Port Charlotte,,,,,,49,On Track,Pending,Permits,,No,,No,Not Started,,,,,,4709,,4709,0,,,0,0,0,6/17 Pending Permit and PO To Be Uploaded Into SiteTracker
+D-HSF419,Port Charlotte,46295,,,,,49,On Track,Received,,,Yes,62657,Yes,Not Started,,,,,,5185,,5185,0,,,0,0,0,7/31 NTP Package Received.
+D-HSF420,Port Charlotte,46295,,,,,49,On Track,Received,,,Yes,58273.5,No,Not Started,,,,,,4709,,4709,0,,,0,0,0,8/3 PO Uploaded Into SiteTracker.
 FB-HSF304,Port Charlotte,46172,Lightspeed In-House,46140,Joshua,,0,On Track,Received,,,Yes,33518.7,Yes,In Process,46140,,,,,3693,2153,1540,0.58299485513133,46146,,0,0,0,4/21 NTP Received.
 FB-HSF606,Port Charlotte,46111,,,,,0,On Track,Pending,SOW Pending,,No,,No,Not Started,,,,,,,,0,0,,,0,0,0,2/19 Pending NTP Package and SOW.
 FB-HSF675,Port Charlotte,46111,,,,,0,On Track,Pending,SOW Pending,,No,,No,Not Started,,,,,,,,0,0,,,0,0,0,2/19 Pending NTP Package and SOW.
