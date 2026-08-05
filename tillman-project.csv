@@ -112,25 +112,25 @@ Market 4 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned S
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Market 7 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-BHC-FSW-04-E,Kissimmee,46320,,,,,0,On Track,Received,,,Yes,68022.75,Yes,Not Started,,,,,,4564,,4564,,,,0,0,0,8/4 PO Received.
-BHT-FSE-01,Kissimmee,46318,BICOM,46237,Miguel,,0,On Track,Received,,,Yes,75444.55,Yes,Not Started,,,,,,5936,,5936,,,,0,0,0,7/30 NTP Package Recived
+BHC-FSW-04-E,Kissimmee,46326,,,,,0,On Track,Received,,,Yes,68022.75,Yes,Not Started,,,,,,4564,,4564,,,,0,0,0,8/4 PO Received.
+BHT-FSE-01,Kissimmee,46326,BICOM,46237,Miguel,,0,On Track,Received,,46237,Yes,75444.55,Yes,Locates Called,46237,,,,,5936,,5936,,,,0,0,0,"7/30 NTP Package Recived/Locates called 8/3 (216607470, 216607340, 216607274, 216607219, 216605143, 216605023, 216605095, 216605237, 216605254, 216605270, 216605280, 216605302)"
 D-HSW401,Kissimmee,46318,,,,,60,On Track,Pending,Permits,,Yes,82732,Yes,Not Started,,,,,,7117,,7117,,,,0,0,0,2/11 Pending Permit
 D-HSW402,Kissimmee,46318,,,,,83,On Track,Pending,Permits,,Yes,110980,Yes,Not Started,,,,,,9590,,9590,,,,0,0,0,2/11 Pending Permit
 D-HSW403,Kissimmee,46318,,,,,84,On Track,Received,,,Yes,108948,Yes,Not Started,,,,,,9329,,9329,,,,0,0,0,5/18 Cannot Approve PO In SiteTracker.
 D-HSW404,Kissimmee,46318,,,,,89,On Track,Received,,,Yes,116114,Yes,Not Started,,,,,,9709,,9709,,,,0,0,0,5/18 Cannot Approve PO In SiteTracker.
 D-HSW405,Kissimmee,46318,,,,,79,On Track,Pending,Permits,,Yes,108665,Yes,Not Started,,,,,,9263,,9263,,,,0,0,0,2/11 Pending Permit
 D-HSW406,Kissimmee,46318,,,,,87,On Track,Pending,Permits,,Yes,120731,Yes,Not Started,,,,,,10385,,10385,,,,0,0,0,5/19 Pending Notice To Proceed From Tillman
-D-HSW407,Kissimmee,46341,,,,,86,On Track,Pending,Permits,,Yes,111864,Yes,Not Started,,,,,,9398,,9398,,,,0,0,0,2/11 Pending Permit
-D-HSW408,Kissimmee,46341,,,,,63,On Track,Pending,Permits,,Yes,88533.5,Yes,Not Started,,,,,,7517,,7517,,,,0,0,0,2/11 Pending Permit
+D-HSW407,Kissimmee,46351,,,,,86,On Track,Pending,Permits,,Yes,111864,Yes,Not Started,,,,,,9398,,9398,,,,0,0,0,2/11 Pending Permit
+D-HSW408,Kissimmee,46351,,,,,63,On Track,Pending,Permits,,Yes,88533.5,Yes,Not Started,,,,,,7517,,7517,,,,0,0,0,2/11 Pending Permit
 D-HSW409,Kissimmee,46379,,,,,78,On Track,Received,,,Yes,75143.5,Yes,Not Started,,,,,,5920,,5920,,,,0,0,0,5/18 Pending Notice To Proceed From Tillman
-D-HSW410,Kissimmee,46310,,,,,60,On Track,Pending,Permits,,Yes,66890,Yes,Not Started,,,,,,5589,,5589,,,,0,0,0,2/11 Pending Permit
+D-HSW410,Kissimmee,46487,,,,,60,On Track,Pending,Permits,,Yes,66890,Yes,Not Started,,,,,,5589,,5589,,,,0,0,0,2/11 Pending Permit
 D-HSW411,Kissimmee,46310,,,,,60,On Track,Pending,Permits,,Yes,65974,Yes,Not Started,,,,,,5515,,5515,,,,0,0,0,2/11 Pending Permit
-D-HSW412,Kissimmee,46188,,,,,62,On Track,Pending,Permits,,Yes,63989.5,Yes,Not Started,,,,,,5191,,5191,,,,0,0,0,2/11 Pending Permit
-D-HSW413,Kissimmee,46188,,,,,60,On Track,Pending,Permits,,Yes,67355.5,Yes,Not Started,,,,,,5620,,5620,,,,0,0,0,2/11 Pending Permit
+D-HSW412,Kissimmee,46492,,,,,62,On Track,Pending,Permits,,Yes,63989.5,Yes,Not Started,,,,,,5191,,5191,,,,0,0,0,2/11 Pending Permit
+D-HSW413,Kissimmee,46487,,,,,60,On Track,Pending,Permits,,Yes,67355.5,Yes,Not Started,,,,,,5620,,5620,,,,0,0,0,2/11 Pending Permit
 D-HSW414,Kissimmee,46379,,,,,86,On Track,Pending,Permits,,Yes,86438.5,Yes,Not Started,,,,,,6864,,6864,,,,0,0,0,2/11 Pending Permit
-D-HSW415,Kissimmee,46188,,,,,89,On Track,Pending,Permits,,Yes,88748.5,Yes,Not Started,,,,,,6461,,6461,,,,0,0,0,2/11 Pending Permit
-D-HSW416,Kissimmee,46341,,,,,25,On Track,Pending,Permits,,Yes,33288,Yes,Not Started,,,,,,2790,,2790,,,,0,0,0,2/11 Pending Permit
-D-HSW417,Kissimmee,46341,,,,,79,On Track,Pending,Permits,,Yes,89875.5,Yes,Not Started,,,,,,7368,,7368,,,,0,0,0,2/11 Pending Permit
+D-HSW415,Kissimmee,46487,,,,,89,On Track,Pending,Permits,,Yes,88748.5,Yes,Not Started,,,,,,6461,,6461,,,,0,0,0,2/11 Pending Permit
+D-HSW416,Kissimmee,46351,,,,,25,On Track,Pending,Permits,,Yes,33288,Yes,Not Started,,,,,,2790,,2790,,,,0,0,0,2/11 Pending Permit
+D-HSW417,Kissimmee,46351,,,,,79,On Track,Pending,Permits,,Yes,89875.5,Yes,Not Started,,,,,,7368,,7368,,,,0,0,0,2/11 Pending Permit
 D-HSW418,Kissimmee,46318,,,,,84,On Track,Pending,Permits,,Yes,95052.5,Yes,Not Started,,,,,,7844,,7844,,,,0,0,0,2/11 Pending Permit
 D-HSW419,Kissimmee,46318,,,,,88,On Track,Received,,,Yes,102476,Yes,Not Started,,,,,,8148,,8148,,,,0,0,0,5/18 Pending Notice To Proceed From Tillman
 D-HSW420,Kissimmee,46318,,,,,60,On Track,Received,,,Yes,80344,Yes,Not Started,,,,,,6829,,6829,,,,0,0,0,5/18 Pending Notice To Proceed From Tillman
@@ -141,12 +141,12 @@ D-HSW424,Kissimmee,46415,,,,,76,On Track,Pending,Permits,,Yes,76640,Yes,Not Star
 D-HSW425,Kissimmee,46367,,,,,89,On Track,Pending,Permits,,Yes,80780,Yes,Not Started,,,,,,6284,,6284,,,,0,0,0,2/11 Pending Permit for city
 D-HSW426,Kissimmee,46367,,,,,85,On Track,Pending,Permits,,Yes,95244,Yes,Not Started,,,,,,7743,,7743,,,,0,0,0,2/11 Pending Permit
 D-HSW427,Kissimmee,46415,,,,,87,On Track,Pending,Permits,,Yes,86888,Yes,Not Started,,,,,,6932,,6932,,,,0,0,0,2/11 Pending Permit
-D-HSW428,Kissimmee,46127,,,,,87,On Track,Pending,Permits,,Yes,75700,Yes,Not Started,,,,,,6213,,6213,,,,0,0,0,2/11 Pending Permit
-D-HSW429,Kissimmee,46127,,,,,52,On Track,Pending,Permits,,Yes,53698,Yes,Not Started,,,,,,4339,,4339,,,,0,0,0,2/11 Pending Permit
-D-HSW430,Kissimmee,46127,,,,,48,On Track,Pending,Permits,,Yes,48883,Yes,Not Started,,,,,,3940,,3940,,,,0,0,0,2/11 Pending Permit
+D-HSW428,Kissimmee,46487,,,,,87,On Track,Pending,Permits,,Yes,75700,Yes,Not Started,,,,,,6213,,6213,,,,0,0,0,2/11 Pending Permit
+D-HSW429,Kissimmee,46487,,,,,52,On Track,Pending,Permits,,Yes,53698,Yes,Not Started,,,,,,4339,,4339,,,,0,0,0,2/11 Pending Permit
+D-HSW430,Kissimmee,46487,,,,,48,On Track,Pending,Permits,,Yes,48883,Yes,Not Started,,,,,,3940,,3940,,,,0,0,0,2/11 Pending Permit
 D-HSW431,Kissimmee,46379,,,,,88,On Track,Pending,Permits,,Yes,83382,Yes,Not Started,,,,,,6855,,6855,,,,0,0,0,2/11 Pending Permit
 D-HSW432,Kissimmee,46415,,,,,90,On Track,Pending,Permits,,Yes,88834,Yes,Not Started,,,,,,7147,,7147,,,,0,0,0,2/11 Pending Permit
-D-HSW433,Kissimmee,46127,,,,,83,On Track,Pending,Permits,,Yes,81027.5,Yes,Not Started,,,,,,6376,,6376,,,,0,0,0,2/11 Pending Permit
+D-HSW433,Kissimmee,46487,,,,,83,On Track,Pending,Permits,,Yes,81027.5,Yes,Not Started,,,,,,6376,,6376,,,,0,0,0,2/11 Pending Permit
 D-HSW434,Kissimmee,46415,,,,,63,On Track,Pending,Permits,,Yes,60264,Yes,Not Started,,,,,,4784,,4784,,,,0,0,0,2/11 Pending Permit
 D-HSW435,Kissimmee,46367,,,,,86,On Track,Pending,Permits,,Yes,81096,Yes,Not Started,,,,,,6387,,6387,,,,0,0,0,2/11 Pending Permit
 D-HSW436,Kissimmee,46367,,,,,81,On Track,Pending,Permits,,Yes,79796,Yes,Not Started,,,,,,6372,,6372,,,,0,0,0,2/11 Pending Permit
@@ -154,19 +154,19 @@ D-HSW437,Kissimmee,46379,,,,,77,On Track,Pending,Permits,,Yes,69082,Yes,Not Star
 D-HSW438,Kissimmee,46379,,,,,67,On Track,Pending,Permits,,Yes,65448,Yes,Not Started,,,,,,5199,,5199,,,,0,0,0,2/11 Pending Permit
 D-HSW439,Kissimmee,46379,,,,,90,On Track,Pending,Permits,,Yes,116020.5,Yes,Not Started,,,,,,9771,,9771,,,,0,0,0,2/11 Pending Permit
 D-HSW440,Kissimmee,46379,,,,,90,On Track,Pending,Permits,,Yes,114306,Yes,Not Started,,,,,,9562,,9562,,,,0,0,0,2/11 Pending Permit
-D-HSW441,Kissimmee,46341,,,,,87,On Track,Pending,Permits,,Yes,80784,Yes,Not Started,,,,,,6309,,6309,,,,0,0,0,2/11 Pending Permit
+D-HSW441,Kissimmee,46351,,,,,87,On Track,Pending,Permits,,Yes,80784,Yes,Not Started,,,,,,6309,,6309,,,,0,0,0,2/11 Pending Permit
 D-HSW442,Kissimmee,46379,,,,,90,On Track,Pending,Permits,,Yes,125540.85,Yes,Not Started,,,,,,10260,,10260,,,,0,0,0,2/11 Pending Permit
-D-HSW443,Kissimmee,46340,,,,,89,On Track,Pending,Permits,,Yes,119327,Yes,Not Started,,,,,,10080,,10080,,,,0,0,0,2/11 Pending Permit
+D-HSW443,Kissimmee,46487,,,,,89,On Track,Pending,Permits,,Yes,119327,Yes,Not Started,,,,,,10080,,10080,,,,0,0,0,2/11 Pending Permit
 D-HSW444,Kissimmee,46340,,,,,76,On Track,Pending,Permits,,Yes,85720,Yes,Not Started,,,,,,6859,,6859,,,,0,0,0,2/11 Pending Permit
-D-HSW445,Kissimmee,46341,,,,,84,On Track,Pending,Permits,,Yes,75682,Yes,Not Started,,,,,,5873,,5873,,,,0,0,0,2/11 Pending Permit
-D-HSW446,Kissimmee,46341,,,,,55,On Track,Pending,Permits,,Yes,60784,Yes,Not Started,,,,,,4945,,4945,,,,0,0,0,2/11 Pending Permit
-D-HSW447,Kissimmee,46368,,,,,54,On Track,Pending,Permits,,Yes,52670,Yes,Not Started,,,,,,4275,,4275,,,,0,0,0,2/11 Pending Permit
+D-HSW445,Kissimmee,46340,,,,,84,On Track,Pending,Permits,,Yes,75682,Yes,Not Started,,,,,,5873,,5873,,,,0,0,0,2/11 Pending Permit
+D-HSW446,Kissimmee,46340,,,,,55,On Track,Pending,Permits,,Yes,60784,Yes,Not Started,,,,,,4945,,4945,,,,0,0,0,2/11 Pending Permit
+D-HSW447,Kissimmee,46367,,,,,54,On Track,Pending,Permits,,Yes,52670,Yes,Not Started,,,,,,4275,,4275,,,,0,0,0,2/11 Pending Permit
 D-HSW448,Kissimmee,46379,,,,,88,On Track,Received,,,Yes,86455.5,No,Not Started,,,,,,6378,,6378,,,,0,0,0,7/30 NTP Package Recived
 FB-HSW406,Kissimmee,46318,,,,,0,On Track,Received,,,Yes,94474.5,No,Not Started,,,,,,7373,,7373,,,,0,0,0,7/30 NTP Package Recived
 FB-HSW416,Kissimmee,46318,,,Miguel,,0,On Track,Pending,Permits,,Yes,74145.85,Yes,Not Started,,,,,,5781,,5781,,,,0,0,0,7/24 NTP Package Recived
 FB-HSW417,Kissimmee,46318,,,,,0,On Track,Received,,,No,,No,Not Started,,,,,,9051,,9051,,,,0,0,0,2/11 Pending SOW and Permit
 FB-HSW419,Kissimmee,46318,,,,,0,On Track,Pending,Permits,,Yes,9232.4,Yes,Not Started,,,,,,7261,,7261,,,,0,0,0,6/10 NTP Package Received With Permit.
-FB-HSW425,Kissimmee,46367,,,,,0,On Track,Pending,Permits,,No,,No,Not Started,,,,,,9638,,9638,,,,0,0,0,7/30 Pending SOW and Permit
+FB-HSW425,Kissimmee,46367,BICOM,46238,Miguel,,0,On Track,Received,,,Yes,126441.9,Yes,Not Started,,,,,,9638,,9638,,,,0,0,0,8/4 PO Received--FDOT Permit Received.
 FB-HSW443,Kissimmee,46318,,,,,0,On Track,Received,,,Yes,111398.8,Yes,Not Started,,,,,,8746,,8746,,,,0,0,0,7/30 PO Received
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
