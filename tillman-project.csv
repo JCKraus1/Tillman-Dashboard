@@ -7,16 +7,16 @@ D-HPP630,Clearwater,46325,Brothers,46171,Marcelo Zaldivar,,67,On Track,Received,
 D-HPP631,Clearwater,46325,Brothers,46170,Treyvon Tillman,,93,On Track,Received,,,Yes,104934,Yes,In Process,46176,,,,,8701,5746,2955,0.660383863923687,46191,,0,0,0,5/1 NTP Package Received.
 D-HPP635,Clearwater,46325,NIA Underground,46182,John E Williams,,57,On Track,Received,,,Yes,106431.5,Yes,In Process,46183,,,,,8751,7047,1704,0.805279396640384,46216,,0,0,0,5/12 NTP Package Received.
 D-HPP636,Clearwater,46325,Brothers,46182,Anthony Adum,,86,On Track,Received,,,Yes,97386.5,Yes,Locates Called,46188,,,,,7996,7365,631,0.921085542771386,46219,,0,0,0,5/1 NTP Package Received.
-D-HPP637,Clearwater,46325,Lightspeed In-House,46171,Treyvon Tillman,,40,On Track,Received,,46182,Yes,91774,Yes,In Process,46171,,,,,7530,2951,4579,0.391899070385126,46217,,0,0,0,5/1 NTP Package Received.
-D-HPP638,Clearwater,46325,Lightspeed In-House,47267,Treyvon Tillman,,88,On Track,Received,,46181,Yes,81059.5,Yes,In Process,46174,,,,,6647,3987,2660,0.599819467428915,46188,,0,0,0,5/1 NTP Package Received.
+D-HPP637,Clearwater,46325,Lightspeed In-House,46171,Treyvon Tillman,,40,On Track,Received,,46182,Yes,91774,Yes,In Process,46171,,,,,7530,3184,4346,0.422841965471448,46217,,0,0,0,5/1 NTP Package Received.
+D-HPP638,Clearwater,46325,Lightspeed In-House,47267,Treyvon Tillman,,88,On Track,Received,,46181,Yes,81059.5,Yes,In Process,46174,,,,,6647,4385,2262,0.659696103505341,46188,,0,0,0,5/1 NTP Package Received.
 FB-HPP631,Clearwater,46325,Brothers,46155,Anthony Adum,PPM111690 ,0,On Track,Received,,46154,Yes,65477.3,Yes,Locates Called,46157,,,,,5318,,5318,0,,,0,0,0,5/15 - Door Tagged/Whitelined - Locates called - 5/1 NTP Package Received.
 D-HNP108/D-H0102E,St Petersburg,46080,Kattle One/LSCG,46018,John E Williams,PPM91941,89,On Track,Received,,46028,Yes,72131.5,Yes,In Process,46014,,,,,6182,5899,283,0.954221934648981,45891,,0,0,0,"5/11 - Stop work in place for City of St. Pete till 5/15 - 5/4 Will have to redrill 380' K1 drilled to deep and did not install the 2 tobys, Locates Called in  - 4-28 JW // REPAIRED 1 OF 2 DAPs. NEED TO FIND ISSUE WITH THE 2ND DAP LOCATION - 3.16 JW // LSCG QC discovered missing section of Route 2, called in locates and they are pending"
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Market 1 NTP Number Pinellas,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-D-HPP303,Pinellas,46262,R&F Underground Construction Inc,46171,Joshua Pacheco,,35,On Track,Received,,46183,Yes,98498,Yes,In Process,46183,,,,,7699,7716,-17,1.0022080789713,46195,,0,0,0,5/29 NTP Package Received--PO Received 6/1
+D-HPP303,Pinellas,46262,R&F Underground Construction Inc,46171,Joshua Pacheco,,35,On Track,Received,,46183,Yes,98498,Yes,In Process,46183,,,,,7699,8024,-325,1.04221327445123,46195,,0,0,0,5/29 NTP Package Received--PO Received 6/1
 D-HPP311,Pinellas,46262,Legant Livings,46181,Joshua Pacheco,,85,On Track,Received,,46181,Yes,62709,Yes,In Process,46178,,,,,5055,5090,-35,1.00692383778437,46188,,0,0,0,5/29 NTP Package Received--PO Received 6/1
-D-HPP314,Pinellas,46262,Power Connect,46197,Matthew Nunes,MAN112114,69,On Track,Received,,46198,Yes,99986.2,Yes,In Process,46198,,,,,8137,2861,5276,0.351603785178813,,,0,0,0,6/18 NTP Package Received...6-29-26 permit called in
+D-HPP314,Pinellas,46262,Power Connect,46197,Matthew Nunes,MAN112114,69,On Track,Received,,46198,Yes,99986.2,Yes,In Process,46198,,,,,8137,3705,4432,0.455327516283643,,,0,0,0,6/18 NTP Package Received...6-29-26 permit called in
 D-HLC505,Pinellas,46290,NIA Underground,,,,41,On Track,Received,,46225,Yes,78963.5,Yes,Locates Called,46225,,,,,5973,,7950,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
 D-HLC506,Pinellas,46290,Brothers,46223,Anthony Adum,,83,On Track,Received,,46232,Yes,63582,Yes,Locates Called,46232,,,,,5259,,5259,0,,,0,0,0,7/20 NTP and PO Received.
 D-HLC507,Pinellas,46290,ASM Utilities,46223,Treyvon Tillman,,63,On Track,Received,,46224,Yes,78078,Yes,Not Started,,,,,,6335,,4241,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
@@ -47,10 +47,9 @@ Market 3 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned S
 BHUD-FOE-401-W,Bradenton,46295,North Path,46231,Brenton Coplin,MAN112893,0,On Track,Received,,,Yes,18856.2,Yes,Locates Called,46234,,,,,1412,,1412,0,,,0,0,0,7/24 NTP Package Recived--Pending Fiber Details Splcing Document
 D-HLX408,Bradenton,46264,North Path,46233,Brenton Coplin,MAN112892,58,On Track,Received,,,Yes,71336.1,Yes,Locates Called,46234,,,,,5678,,5678,0,,,0,0,0,7/29 NTP Package Received.
 D-HLX502,Bradenton,46191,North Path,46171,Cody,,61,On Track,Received,,,Yes,44936,Yes,Locates Called,46146,,,,,3375,,3375,0,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
-D-HLX503,Bradenton,46181,North Path,46171,Cody,,85,On Track,Received,,,Yes,60062,Yes,In Process,46174,,,,,4380,4156,224,0.948858447488584,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
-D-HLX505,Bradenton,46191,North Path,46171,Cody,,87,On Track,Received,,,Yes,64040,Yes,In Process,46174,,,,,4888,2799,2089,0.572626841243863,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
+D-HLX505,Bradenton,46191,North Path,46171,Cody,,87,On Track,Received,,,Yes,64040,Yes,In Process,46174,,,,,4888,3932,956,0.804418985270049,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
 D-HLX510,Bradenton,46191,North Path,46171,Cody,,78,On Track,Received,,,Yes,58190,Yes,Locates Called,46174,,,,,4283,,4283,0,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
-FB-HLX175,Bradenton,46295,Lightspeed In-House,46225,Brenton Coplin,MAN112869,0,On Track,Received,,,Yes,36166.65,Yes,In Process,46226,,,,,3036,217,2819,0.0714756258234519,,,0,0,0,7/21 NTP Package Received
+FB-HLX175,Bradenton,46295,Lightspeed In-House,46225,Brenton Coplin,MAN112869,0,On Track,Received,,,Yes,36166.65,Yes,In Process,46226,,,,,3036,497,2539,0.163702239789196,,,0,0,0,7/21 NTP Package Received
 FB-HOE179,Bradenton,46040,North Path,46125,Cody,MAN104758,0,On Track,Received,,,Yes,18171.6,Yes,Locates Called,46126,,,,,1514,,1514,0,,,0,0,0,10/27 FDOT Permit Received--NTP Package Missing The Fiber Details Splicing Document. 4-24-25 On hold per Tillman
 FB-HOE401-V4,Bradenton,46172,Lightspeed In-House,46231,Cody,MAN112894,0,On Track,Received,,,Yes,3443,Yes,Locates Called,46234,,,,,224,,224,0,,,0,0,0,"4/24 Pending Fiber Details Splicing Document, 7/28/26 Reassigned to In House"
 FB-HOE401-V6,Bradenton,46295,Lightspeed In-House,46232,Brenton Coplin,,0,On Track,Received,,,Yes,3232.9,Yes,Locates Called,46233,,,,,194,,194,0,,,0,0,0,"7/24 NTP Package Recived--Pending Fiber Details Splcing Document, 7/29/26 Assigned to In House"
@@ -73,7 +72,7 @@ D-HPW350,Fort Myers,46295,,,,,76,On Track,Received,,,Yes,88272,Yes,Not Started,,
 D-HPW351,Fort Myers,46295,,,,,83,On Track,Received,,,Yes,57368,Yes,Not Started,,,,,,4517,,4517,0,,,0,0,0,7/24 NTP Package Recived
 D-HPW361,Fort Myers,46229,,,,,82,On Track,Received,,,Yes,85513,Yes,Not Started,,,,,,6678,,6678,0,,,0,0,0,6/11 NTP Package Received.
 FB-HPW331,Fort Myers,46227,Gulfstream,46213,Joshua,FM112418,0,On Track,Received,,,Yes,25174.45,Yes,Not Started,,,,,,2721,,2721,0,,,0,0,0,6/9 NTP Package Received
-D-HTG201,Fort Myers,46203,Lopez Underground,46171,Joshua,,53,On Track,Received,,,Yes,56455,Yes,Completed,46174,,,,,4814,4660,154,0.968009970918155,46184,46204,0,0,0,4/30 NTP Received 7-17-26 tillman approved bury the route that is on private property and close the job.
+D-HTG201,Fort Myers,46203,Lopez Underground,46171,Joshua,,53,On Track,Received,,,Yes,56455,Yes,Completed,46174,,,,,4814,5133,-319,1.06626506024096,46184,46204,0,0,0,4/30 NTP Received 7-17-26 tillman approved bury the route that is on private property and close the job.
 D-HTG210,Fort Myers,46265,Gulfstream,46231,Joshua,FM112876,77,On Track,Received,,,Yes,68598,Yes,Locates Called,46232,,,,,5803,,5803,0,,,0,0,0,7/17 NTP Received
 D-HTG208,Fort Myers,46203,Lopez Underground,46141,Joshua,,74,On Track,Received,,,Yes,92274,Yes,In Process,46142,,,,,8145,7598,547,0.932842234499693,46149,,0,0,0,4/24 NTP Received 7-13-26 permit waiting on new permit
 D-HTG212,Fort Myers,46264,Gulfstream,46231,Joshua,FM112875,85,On Track,Received,,,Yes,64416.5,Yes,Locates Called,46232,,,,,5445,,5445,0,,,0,0,0,7/24 NTP Package Recived
@@ -84,7 +83,7 @@ D-HTG216,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112879,79,On Track,Re
 D-HTG217,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112881,77,On Track,Received,,,Yes,76557.5,Yes,Locates Called,46232,,,,,6200,,6200,0,,,0,0,0,7/24 NTP Package Recived
 D-HTG218,Fort Myers,46233,Gulfstream,46219,Joshua,FM112751,48,On Track,Received,,,Yes,50669,Yes,In Process,46220,,,,,3600,3041,559,0.844722222222222,46226,,0,0,0,5/29 NTP Received
 D-HTG229,Fort Myers,46203,Lopez Underground,46169,Joshua,,70,On Track,Received,,,Yes,65362,Yes,In Process,46170,,,,,5460,5097,363,0.933516483516484,46189,,0,0,0,5/8 NTP Package Received
-D-HTG230,Fort Myers,46233,Restoring Pro,46219,Joshua,FM112752,79,On Track,Received,,,Yes,89293.95,Yes,In Process,46220,,,,,7494,1439,6055,0.192020282892981,46231,,0,0,0,4/14 NTP Received
+D-HTG230,Fort Myers,46233,Restoring Pro,46219,Joshua,FM112752,79,On Track,Received,,,Yes,89293.95,Yes,In Process,46220,,,,,7494,2157,5337,0.287830264211369,46231,,0,0,0,4/14 NTP Received
 D-HTG231,Fort Myers,46264,Restoring Pro,46231,Joshua,FM112883,90,On Track,Received,,,Yes,90888,Yes,Locates Called,46232,,,,,7881,,7881,0,,,0,0,0,5/29 NTP Received
 D-HTG233,Fort Myers,46203,Lopez Underground,46156,Joshua,,71,On Track,Received,,,Yes,91537.75,Yes,In Process,46157,,,,,7255,6960,295,0.95933838731909,46174,,0,0,0,4/14 NTP Received
 D-HTG238,Fort Myers,46203,Lopez Underground,46171,Joshua,,74,On Track,Received,,,Yes,70534.5,Yes,In Process,46174,,,,,5756,5626,130,0.977414871438499,46191,,0,0,0,5/8 NTP Package Received
@@ -92,7 +91,7 @@ D-HTG305,Fort Myers,46203,,,,,56,On Track,Received,,,Yes,50042,Yes,Not Started,,
 D-HTG307,Fort Myers,46203,HAS Global,46184,Joshua,,62,On Track,Received,,,Yes,48766,Yes,Locates Called,46185,,,,,4009,,4009,0,,,0,0,0,4/30 NTP Received.
 FB-HTG238,Fort Myers,46233,Lopez Underground,46213,Joshua,FM112420,0,On Track,Received,,,Yes,72557.35,Yes,In Process,46213,,,,,5666,4426,1240,0.781150723614543,,,0,0,0,6/15 NTP Package Received
 FB-HTG279,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112884,0,On Track,Received,,,Yes,17689.15,Yes,Locates Called,46232,,,,,949,,949,0,,,0,0,0,7/24 NTP Package Recived
-FB-HTG288,Fort Myers,46203,Alpha Omega,46184,Joshua,,0,On Track,Received,,,Yes,75219.2,Yes,In Process,46189,,,,,5902,3590,2312,0.60826838359878,46210,,0,0,0,5/8 NTP Package Received
+FB-HTG288,Fort Myers,46203,Alpha Omega,46184,Joshua,,0,On Track,Received,,,Yes,75219.2,Yes,In Process,46189,,,,,5902,4116,1786,0.69739071501186,46210,,0,0,0,5/8 NTP Package Received
 Promenades At The Forum,Fort Myers,46172,APT Communications / New Gen Unlimited,,,,402,On Track,Not Required,,46092,Yes,438978.5,Yes,Locates Called,46091,,,,,30807,,30807,0,,,0,0,0,3/16/2026 on hold needs permit per tillman. 4/2 Pending Utility Permit From Tillman.
 D-HSF322,Port Charlotte,46172,Lopez Underground,46210,Joshua,,89,On Track,Received,,,Yes,81150,Yes,Locates Called,46148,,,,,6825,,6825,0,,,0,0,0,4/21 NTP Received.
 D-HSF401,Port Charlotte,46295,,,,,79,On Track,Received,,,Yes,75443.75,Yes,Not Started,,,,,,5953,,5953,0,,,0,0,0,7/24 PO Received.
