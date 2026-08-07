@@ -1,5 +1,5 @@
 Market 1 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-D-HPP608,Clearwater,46325,Lightspeed In-House,46161,Robert Portee,PPM111675,94,On Track,Received,,,Yes,94021.5,Yes,Locates Called,46162,,,,,7741,,7741,0,,,0,0,0,5/1 NTP Package Received./Whitelined  5-19/ locates called 5-20/Will be dortagged 5-21/Pending Locates cleared
+D-HPP608,Clearwater,46325,Lightspeed In-House,46161,Robert Portee,PPM111675,94,On Track,Received,,,Yes,94021.5,Yes,Locates Called,46162,,,,,7741,,7741,0,46241,,0,0,0,5/1 NTP Package Received./Whitelined  5-19/ locates called 5-20/Will be dortagged 5-21/Pending Locates cleared
 D-HPP626,Clearwater,46325,Brothers,46171,Anthony Adum,,75,On Track,Received,,,Yes,95477,Yes,Locates Called,46198,,,,,7966,5984,1982,0.751192568415767,46213,,0,0,0,5/1 NTP Package Received.
 D-HPP627,Clearwater,46325,Brothers,46170,Marcelo Zaldivar,,97,On Track,Received,,,Yes,94688.5,Yes,In Process,46176,,,,,7856,3008,4848,0.382892057026477,46190,,0,0,0,5/1 NTP Package Received.
 D-HPP629,Clearwater,46325,Brothers,46170,Anthony Adum,,51,On Track,Received,,,Yes,91700,Yes,In Process,46176,,,,,7529,7126,403,0.946473635276929,46191,,0,0,0,5/1 NTP Package Received.
@@ -79,7 +79,7 @@ D-HTG212,Fort Myers,46264,Gulfstream,46231,Joshua,FM112875,85,On Track,Received,
 D-HTG213,Fort Myers,46295,HD Cable,46231,Joshua,FM112877,46,On Track,Received,,,Yes,54627.5,Yes,Locates Called,46232,,,,,4834,,4834,0,,,0,0,0,7/24 NTP Package Recived
 D-HTG214,Fort Myers,46295,HD Cable,46231,Joshua,FM112878,82,On Track,Received,,,Yes,77688.5,Yes,Locates Called,46232,,,,,6136,,6136,0,,,0,0,0,7/24 NTP Package Recived
 D-HTG215,Fort Myers,46264,Gulfstream,46219,Joshua,FM112727,56,On Track,Received,,,Yes,55008,Yes,In Process,46220,,,,,4625,3466,1159,0.749405405405405,46231,,0,0,0,7/7 NTP Package Received.
-D-HTG216,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112879,79,On Track,Received,,,Yes,80274,Yes,Locates Called,46232,,,,,6786,,6786,0,,,0,0,0,7/24 NTP Package Recived
+D-HTG216,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112879,79,On Track,Received,,,Yes,80274,Yes,Locates Called,46232,,,,,6786,,6786,0,46241,,0,0,0,7/24 NTP Package Recived
 D-HTG217,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112881,77,On Track,Received,,,Yes,76557.5,Yes,Locates Called,46232,,,,,6200,,6200,0,,,0,0,0,7/24 NTP Package Recived
 D-HTG218,Fort Myers,46233,Gulfstream,46219,Joshua,FM112751,48,On Track,Received,,,Yes,50669,Yes,In Process,46220,,,,,3600,3041,559,0.844722222222222,46226,,0,0,0,5/29 NTP Received
 D-HTG229,Fort Myers,46203,Lopez Underground,46169,Joshua,,70,On Track,Received,,,Yes,65362,Yes,In Process,46170,,,,,5460,5097,363,0.933516483516484,46189,,0,0,0,5/8 NTP Package Received
@@ -162,14 +162,14 @@ FB-HSW406,Kissimmee,46318,,,,,0,On Track,Received,,,Yes,94474.5,No,Not Started,,
 FB-HSW416,Kissimmee,46318,,,Miguel,,0,On Track,Pending,Permits,,Yes,74145.85,Yes,Not Started,,,,,,5781,,5781,,,,0,0,0,7/24 NTP Package Recived
 FB-HSW417,Kissimmee,46318,,,,,0,On Track,Received,,,No,,No,Not Started,,,,,,9051,,9051,,,,0,0,0,2/11 Pending SOW and Permit
 FB-HSW419,Kissimmee,46318,,,,,0,On Track,Pending,Permits,,Yes,9232.4,Yes,Not Started,,,,,,7261,,7261,,,,0,0,0,6/10 NTP Package Received With Permit.
-FB-HSW425,Kissimmee,46367,BICOM,46238,Miguel,,0,On Track,Received,,46239,Yes,126441.9,Yes,Not Started,46240,,,,,9638,,9638,,,,0,0,0,"8/4 PO Received--FDOT Permit Received.Locates called 8-6/ (Locates Tickets 218607727, 218608250, 218608816, 218608482, 218608640, 218608572, 218608785, 218608857, 218608873, 218608881, 218608889, 218608905, 218608911, 218608918, 218608924, 218608935"
+FB-HSW425,Kissimmee,46367,BICOM,46238,Miguel,,0,On Track,Received,,46239,Yes,126441.9,Yes,Locates Called,46240,,,,,9638,,9638,,,,0,0,0,"8/4 PO Received--FDOT Permit Received.Locates called 8-6/ (Locates Tickets 218607727, 218608250, 218608816, 218608482, 218608640, 218608572, 218608785, 218608857, 218608873, 218608881, 218608889, 218608905, 218608911, 218608918, 218608924, 218608935"
 FB-HSW443,Kissimmee,46318,,,,,0,On Track,Received,,,Yes,111398.8,Yes,Not Started,,,,,,8746,,8746,,,,0,0,0,7/30 PO Received
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Market 10 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
 D-HBR257,Miami,46387,Yosep AER,46029,Jose,,87,On Track,Received,,46198,Yes,108458.4,Yes,In Process,46190,,,,,8596,8403,193,0.977547696603071,46203,,0,0,0,12/24 NTP Package Received. Assigned to Yosep 1/7/26
 D-HBR258,Miami,46326,,46029,Jose,,70,On Track,Received,,,Yes,70105.25,Yes,In Process,46213,,,,,5648,4066,1582,0.719900849858357,,,0,0,0,12/24 NTP Package Received. Assigned to Yosep 1/7/26
-D-HBR259,Miami,46387,,,,,77,On Track,Received,,,Yes,78047.35,Yes,Not Started,,,,,,6238,,6238,0,,,0,0,0,12/24 NTP Package Received. Assigned to Yosep 1/7/26
+D-HBR259,Miami,46387,,,,,77,On Track,Received,,,Yes,78047.35,Yes,Locates Called,46241,,,,,6238,,6238,0,,,0,0,0,12/24 NTP Package Received. Assigned to Yosep 1/7/26
 D-HBR260,Miami,46387,,46029,Jose,,52,On Track,Received,,,Yes,91411.65,Yes,Not Started,,,,,,5926,,5926,0,,,0,0,0,12/24 NTP Package Received.
 D-HBR261,Miami,46387,,46029,Jose,,81,On Track,Received,,,Yes,105892.05,Yes,Not Started,,,,,,8641,,8641,0,,,0,0,0,12/24 NTP Package Received.
 D-HBR262,Miami,46387,,46029,Jose,,79,On Track,Received,,,Yes,88420,Yes,Not Started,,,,,,7502,,7502,0,,,0,0,0,12/24 NTP Package Received.
