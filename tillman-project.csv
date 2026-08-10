@@ -44,15 +44,15 @@ FB-HWP876,Lakeland,46052,,45866,Miguel Herrero,PLK98825,0,On Track,Pending,On Ho
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Market 3 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-BHUD-FOE-401-W,Bradenton,46295,North Path,46231,Brenton Coplin,MAN112893,0,On Track,Received,,,Yes,18856.2,Yes,Locates Called,46234,,,,,1412,,1412,0,,,0,0,0,7/24 NTP Package Recived--Pending Fiber Details Splcing Document
-D-HLX408,Bradenton,46264,North Path,46233,Brenton Coplin,MAN112892,58,On Track,Received,,,Yes,71336.1,Yes,Locates Called,46234,,,,,5678,,5678,0,,,0,0,0,7/29 NTP Package Received.
+BHUD-FOE-401-W,Bradenton,46295,North Path,46231,Brenton Copelin,MAN112893,0,On Track,Received,,,Yes,18856.2,Yes,Locates Called,46234,,,,,1412,,1412,0,,,0,0,0,7/24 NTP Package Recived--Pending Fiber Details Splcing Document
+D-HLX408,Bradenton,46264,North Path,46233,Brenton Copelin,MAN112892,58,On Track,Received,,,Yes,71336.1,Yes,Locates Called,46234,,,,,5678,,5678,0,,,0,0,0,7/29 NTP Package Received.
 D-HLX502,Bradenton,46191,North Path,46171,Cody,,61,On Track,Received,,,Yes,44936,Yes,Locates Called,46146,,,,,3375,,3375,0,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
-D-HLX505,Bradenton,46191,North Path,46171,Brenton Coplin,,87,Completed on Track,Received,,,Yes,64040,Yes,Completed,46174,,,,,4888,5307,-419,1.0857201309329,46237,46241,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
+D-HLX505,Bradenton,46191,North Path,46171,Brenton Copelin,,87,Completed on Track,Received,,,Yes,64040,Yes,Completed,46174,,,,,4888,5307,-419,1.0857201309329,46237,46241,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
 D-HLX510,Bradenton,46191,North Path,46171,Cody,,78,On Track,Received,,,Yes,58190,Yes,Locates Called,46174,,,,,4283,,4283,0,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
-FB-HLX175,Bradenton,46295,Lightspeed In-House,46225,Brenton Coplin,MAN112869,0,On Track,Received,,,Yes,36166.65,Yes,In Process,46226,,,,,3036,497,2539,0.163702239789196,,,0,0,0,7/21 NTP Package Received
+FB-HLX175,Bradenton,46295,Lightspeed In-House,46225,Brenton Copelin,MAN112869,0,On Track,Received,,,Yes,36166.65,Yes,In Process,46226,,,,,3036,497,2539,0.163702239789196,,,0,0,0,7/21 NTP Package Received
 FB-HOE179,Bradenton,46040,North Path,46125,Cody,MAN104758,0,On Track,Received,,,Yes,18171.6,Yes,Locates Called,46126,,,,,1514,,1514,0,,,0,0,0,10/27 FDOT Permit Received--NTP Package Missing The Fiber Details Splicing Document. 4-24-25 On hold per Tillman
 FB-HOE401-V4,Bradenton,46172,Lightspeed In-House,46231,Cody,MAN112894,0,On Track,Received,,,Yes,3443,Yes,Locates Called,46234,,,,,224,,224,0,,,0,0,0,"4/24 Pending Fiber Details Splicing Document, 7/28/26 Reassigned to In House"
-FB-HOE401-V6,Bradenton,46295,Lightspeed In-House,46232,Brenton Coplin,,0,On Track,Received,,,Yes,3232.9,Yes,Locates Called,46233,,,,,194,,194,0,,,0,0,0,"7/24 NTP Package Recived--Pending Fiber Details Splcing Document, 7/29/26 Assigned to In House"
+FB-HOE401-V6,Bradenton,46295,Lightspeed In-House,46232,Brenton Copelin,,0,On Track,Received,,,Yes,3232.9,Yes,Locates Called,46233,,,,,194,,194,0,,,0,0,0,"7/24 NTP Package Recived--Pending Fiber Details Splcing Document, 7/29/26 Assigned to In House"
 North Oaks Estates,Bradenton,46160,Mid Florida Contractors,,,,107,On Track,Pending,On Hold,,Yes,175204.4,Yes,Not Started,,,,,,8686,,8686,0,,,0,0,0,4/14 SOW Received. 
 Plantation Bay,Bradenton,46233,Mid Florida Contractors,46212,Cody,FM112414,88,On Track,Not Required,,,Yes,101036.5,Yes,Locates Called,46224,,,,,12305,,12305,0,,,0,0,0,6/11 NTP Package Received.
 BHCD-FPW-03-E,Fort Myers,46172,Lopez Underground,46196,Joshua,,0,On Track,Received,,,Yes,43061.3,Yes,In Process,46126,,,,,11789,4819,6970,0.40877088811604,46210,,0,0,0,
@@ -109,7 +109,7 @@ Market 4 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned S
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Market 7 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
 BHC-FSW-04-E,Kissimmee,46326,,,,,0,On Track,Received,,,Yes,68022.75,Yes,Not Started,,,,,,4564,,4564,,,,0,0,0,8/4 PO Received.
-BHT-FSE-01,Kissimmee,46326,BICOM,46237,Miguel,,0,On Track,Received,,46237,Yes,75444.55,Yes,Locates Called,46237,,,,,5936,,5936,,,,0,0,0,"7/30 NTP Package Recived/Locates called 8/3 (216607470, 216607340, 216607274, 216607219, 216605143, 216605023, 216605095, 216605237, 216605254, 216605270, 216605280, 216605302)"
+BHT-FSE-01,Kissimmee,46326,BICOM,46237,Miguel,,0,On Track,Received,,46237,Yes,75444.55,Yes,Locates Called,46237,,,,,5936,,5936,,,,0,0,0,7/30 NTP Package Recived/Locates called 8/3
 D-HSW401,Kissimmee,46318,,,,,60,On Track,Pending,Permits,,Yes,82732,Yes,Not Started,,,,,,7117,,7117,,,,0,0,0,2/11 Pending Permit
 D-HSW402,Kissimmee,46318,,,,,83,On Track,Pending,Permits,,Yes,110980,Yes,Not Started,,,,,,9590,,9590,,,,0,0,0,2/11 Pending Permit
 D-HSW403,Kissimmee,46318,,,,,84,On Track,Received,,,Yes,108948,Yes,Not Started,,,,,,9329,,9329,,,,0,0,0,5/18 Cannot Approve PO In SiteTracker.
@@ -162,7 +162,7 @@ FB-HSW406,Kissimmee,46318,,,,,0,On Track,Received,,,Yes,94474.5,No,Not Started,,
 FB-HSW416,Kissimmee,46318,,,Miguel,,0,On Track,Pending,Permits,,Yes,74145.85,Yes,Not Started,,,,,,5781,,5781,,,,0,0,0,7/24 NTP Package Recived
 FB-HSW417,Kissimmee,46318,,,,,0,On Track,Received,,,No,,No,Not Started,,,,,,9051,,9051,,,,0,0,0,2/11 Pending SOW and Permit
 FB-HSW419,Kissimmee,46318,,,,,0,On Track,Pending,Permits,,Yes,9232.4,Yes,Not Started,,,,,,7261,,7261,,,,0,0,0,6/10 NTP Package Received With Permit.
-FB-HSW425,Kissimmee,46367,BICOM,46238,Miguel,,0,On Track,Received,,46239,Yes,126441.9,Yes,Locates Called,46240,,,,,9638,,9638,,,,0,0,0,"8/4 PO Received--FDOT Permit Received.Locates called 8-6/ (Locates Tickets 218607727, 218608250, 218608816, 218608482, 218608640, 218608572, 218608785, 218608857, 218608873, 218608881, 218608889, 218608905, 218608911, 218608918, 218608924, 218608935"
+FB-HSW425,Kissimmee,46367,BICOM,46238,Miguel,,0,On Track,Received,,46239,Yes,126441.9,Yes,Locates Called,46240,,,,,9638,,9638,,,,0,0,0,8/4 PO Received--FDOT Permit Received.Locates called 8-6/
 FB-HSW443,Kissimmee,46318,,,,,0,On Track,Received,,,Yes,111398.8,Yes,Not Started,,,,,,8746,,8746,,,,0,0,0,7/30 PO Received
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
