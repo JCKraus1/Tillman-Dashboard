@@ -19,20 +19,20 @@ D-HPP311,Pinellas,46262,Legant Livings,46181,Joshua Pacheco,,85,On Track,Receive
 D-HPP314,Pinellas,46262,Power Connect,46197,Matthew Nunes,MAN112114,69,On Track,Received,,46198,Yes,99986.2,Yes,In Process,46198,,,,,8137,7171,966,0.88128302814305,,,0,0,0,6/18 NTP Package Received...6-29-26 permit called in
 D-HLC505,Pinellas,46290,NIA Underground,,,,41,On Track,Received,,46225,Yes,78963.5,Yes,Locates Called,46225,,,,,5973,,7950,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
 D-HLC506,Pinellas,46290,Brothers,46223,Anthony Adum,,83,On Track,Received,,46232,Yes,63582,Yes,Locates Called,46232,,,,,5259,,5259,0,,,0,0,0,7/20 NTP and PO Received.
-D-HLC507,Pinellas,46290,ASM Utilities,46223,Treyvon Tillman,,63,On Track,Received,,46224,Yes,78078,Yes,Not Started,,,,,,6335,,4241,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
-D-HLC508,Pinellas,46290,ASM Utilities,46223,Treyvon Tillman,,69,On Track,Received,,,Yes,84458.5,Yes,Not Started,,,,,,6831,,5374,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
+D-HLC507,Pinellas,46290,ASM Utilities,46223,Treyvon Tillman,,63,On Track,Received,,46224,Yes,78078,Yes,Locates Called,46230,,,,,6335,,4241,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
+D-HLC508,Pinellas,46290,ASM Utilities,46223,Treyvon Tillman,,69,On Track,Received,,,Yes,84458.5,Yes,Locates Called,46230,,,,,6831,,5374,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
 D-HLC510,Pinellas,46290,Full Circle/LSCG,46223,Treyvon Tillman,,102,On Track,Received,,46224,Yes,59181,Yes,Locates Called,46230,,,,,4718,,8078,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
 D-HLC511,Pinellas,46290,Full Circle/LSCG,46223,Treyvon Tillman,,93,On Track,Received,,46224,Yes,72479.5,Yes,Locates Called,46227,,,,,5861,,7140,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
 D-HLC512,Pinellas,46290,Brothers,46223,Anthony Adum,,67,On Track,Received,,46226,Yes,86106.8,Yes,Locates Called,46226,,,,,7115,,7115,0,,,0,0,0,7/14 NTP Package Received
-D-HLC513,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112719,91,On Track,Received,,,Yes,79458,Yes,Not Started,,,,,,6519,,5454,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
+D-HLC513,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112719,91,On Track,Received,,,Yes,79458,Yes,Locates Called,46220,,,,,6519,,5454,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
 D-HLC514,Pinellas,46290,APT Communications  ,46219,Joshua Pacheco,PPM112724,83,On Track,Received,,46223,Yes,87651,Yes,Locates Called,46223,,,,,7199,,8272,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
 D-HLC515,Pinellas,46290,Randy's Utilities,46241,Joshua Pacheco,,18,On Track,Received,,,Yes,80560,Yes,Not Started,,,,,,6416,,6416,0,,,0,0,0,8/5 NTP Package Received--8/6 PO Received.
 D-HLC516,Pinellas,46290,R&F Underground Construction Inc,46241,Joshua Pacheco,,90,On Track,Received,,46237,Yes,113855.5,Yes,Locates Called,46237,,,,,8970,,8970,0,,,0,0,0,7/31 NTP Package Received.
 D-HLC517,Pinellas,46290,ASM Utilities,46219,Matthew Nunes,PPM112721,83,On Track,Received,,,Yes,79947,Yes,Not Started,,,,,,6058,,6058,0,,,0,0,0,7/14 NTP Package Received
-D-HLC518,Pinellas,46290,ASM Utilities,46219,Matthew Nunes,PPM112722,93,On Track,Received,,,Yes,74446.5,Yes,In Process,,,,,,5775,714,5775,0.123636363636364,,,0,0,0,7/14 NTP Package Received
-D-HLC519,Pinellas,46290,Brothers,46223,Anthony Adum,,44,On Track,Received,,,Yes,84001.5,Yes,Not Started,,,,,,6969,,6969,0,,,,,,7/31 NTP Package Received.
+D-HLC518,Pinellas,46290,ASM Utilities,46219,Matthew Nunes,PPM112722,93,On Track,Received,,,Yes,74446.5,Yes,In Process,46230,,,,,5775,714,5775,0.123636363636364,,,0,0,0,7/14 NTP Package Received
+D-HLC519,Pinellas,46290,Brothers,46245,Anthony Adum,,44,On Track,Received,,,Yes,84001.5,Yes,Not Started,,,,,,6969,,6969,0,,,,,,7/31 NTP Package Received.
 FB-HLC512,Pinellas,46290,Brothers,46223,Anthony Adum,PPM112758,0,On Track,Received,,46225,Yes,71505.7,Yes,In Process,46225,,,,,5642,745,2879,0.132045373980858,46241,,0,0,0,7/13 NTP Package Received
-FB-HLC519,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112720,0,On Track,Received,,,Yes,25127.05,Yes,Not Started,,,,,,2013,,2013,0,,,0,0,0,7/14 NTP Package Received
+FB-HLC519,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112720,0,On Track,Received,,,Yes,25127.05,Yes,Locates Called,46220,,,,,2013,,2013,0,,,0,0,0,7/14 NTP Package Received
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Market 2 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
