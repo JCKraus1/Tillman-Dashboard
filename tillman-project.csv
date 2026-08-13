@@ -1,176 +1,174 @@
-Market 1 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-D-HPP608,Clearwater,46325,Lightspeed In-House,46161,Robert Portee,PPM111675,94,On Track,Received,,,Yes,94021.5,Yes,In Process,46162,,,,,7741,2111,5630,0.272703785040692,46241,,0,0,0,5/1 NTP Package Received./Whitelined  5-19/ locates called 5-20/Will be dortagged 5-21/Pending Locates cleared
-D-HPP626,Clearwater,46325,Brothers,46171,Anthony Adum,,75,On Track,Received,,,Yes,95477,Yes,In Process,46198,,,,,7966,5984,1982,0.751192568415767,46213,,0,0,0,5/1 NTP Package Received.
-D-HPP627,Clearwater,46325,Brothers,46170,Marcelo Zaldivar,,97,On Track,Received,,,Yes,94688.5,Yes,In Process,46176,,,,,7856,6850,1006,0.871945010183299,46190,,0,0,0,5/1 NTP Package Received.
-D-HPP629,Clearwater,46325,Brothers,46170,Anthony Adum,,51,On Track,Received,,,Yes,91700,Yes,In Process,46176,,,,,7529,7407,122,0.98379598884314,46191,,0,0,0,5/1 NTP Package Received.
-D-HPP630,Clearwater,46325,Brothers,46171,Marcelo Zaldivar,,67,On Track,Received,,,Yes,100866,Yes,In Process,46175,,,,,9021,8341,680,0.924620330340317,46195,,0,0,0,5/1 NTP Package Received.
-D-HPP631,Clearwater,46325,Brothers,46170,Treyvon Tillman,,93,On Track,Received,,,Yes,104934,Yes,In Process,46176,,,,,8701,6194,2507,0.711872198597862,46191,,0,0,0,5/1 NTP Package Received.
-D-HPP635,Clearwater,46325,NIA Underground,46182,John E Williams,,57,On Track,Received,,,Yes,106431.5,Yes,In Process,46183,,,,,8751,7047,1704,0.805279396640384,46216,,0,0,0,5/12 NTP Package Received.
-D-HPP636,Clearwater,46325,Brothers,46182,Anthony Adum,,86,Completed on Track,Received,,,Yes,97386.5,Yes,Completed,46188,,,,,7996,7742,254,0.968234117058529,46219,,0,0,0,5/1 NTP Package Received.
-D-HPP637,Clearwater,46325,Lightspeed In-House,46171,Treyvon Tillman,,40,On Track,Received,,46182,Yes,91774,Yes,In Process,46171,,,,,7530,3925,3605,0.52124833997344,46217,,0,0,0,5/1 NTP Package Received.
-D-HPP638,Clearwater,46325,Lightspeed In-House,47267,Treyvon Tillman,,88,On Track,Received,,46181,Yes,81059.5,Yes,In Process,46174,,,,,6647,4904,1743,0.737776440499473,46188,,0,0,0,5/1 NTP Package Received.
-FB-HPP631,Clearwater,46325,Brothers,46155,Anthony Adum,PPM111690 ,0,On Track,Received,,46154,Yes,65477.3,Yes,Locates Called,46157,,,,,5318,,5318,0,,,0,0,0,5/15 - Door Tagged/Whitelined - Locates called - 5/1 NTP Package Received.
-D-HNP108/D-H0102E,St Petersburg,46080,Kattle One/LSCG,46018,John E Williams,PPM91941,89,On Track,Received,,46028,Yes,72131.5,Yes,In Process,46014,,,,,6182,5899,283,0.954221934648981,45891,,0,0,0,"5/11 - Stop work in place for City of St. Pete till 5/15 - 5/4 Will have to redrill 380' K1 drilled to deep and did not install the 2 tobys, Locates Called in  - 4-28 JW // REPAIRED 1 OF 2 DAPs. NEED TO FIND ISSUE WITH THE 2ND DAP LOCATION - 3.16 JW // LSCG QC discovered missing section of Route 2, called in locates and they are pending"
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Market 1 NTP Number Pinellas,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-D-HPP303,Pinellas,46262,R&F Underground Construction Inc,46171,Joshua Pacheco,,35,On Track,Received,,46183,Yes,98498,Yes,In Process,46183,,,,,7699,8024,-325,1.04221327445123,46195,,0,0,0,5/29 NTP Package Received--PO Received 6/1
-D-HPP311,Pinellas,46262,Legant Livings,46181,Joshua Pacheco,,85,On Track,Received,,46181,Yes,62709,Yes,In Process,46178,,,,,5055,5090,-35,1.00692383778437,46188,,0,0,0,5/29 NTP Package Received--PO Received 6/1
-D-HPP314,Pinellas,46262,Power Connect,46197,Matthew Nunes,MAN112114,69,Completed on Track,Received,,46198,Yes,99986.2,Yes,Completed,46198,,,,,8137,8054,83,0.989799680471918,,,0,0,0,6/18 NTP Package Received...6-29-26 permit called in
-D-HLC505,Pinellas,46290,NIA Underground,,,,41,On Track,Received,,46225,Yes,78963.5,Yes,Locates Called,46225,,,,,5973,,7950,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
-D-HLC506,Pinellas,46290,Brothers,46223,Anthony Adum,,83,On Track,Received,,46232,Yes,63582,Yes,Locates Called,46232,,,,,5259,,5259,0,,,0,0,0,7/20 NTP and PO Received.
-D-HLC507,Pinellas,46290,ASM Utilities,46223,Treyvon Tillman,,63,On Track,Received,,46224,Yes,78078,Yes,Locates Called,46230,,,,,6335,,4241,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
-D-HLC508,Pinellas,46290,ASM Utilities,46223,Treyvon Tillman,,69,On Track,Received,,,Yes,84458.5,Yes,Locates Called,46230,,,,,6831,,5374,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
-D-HLC510,Pinellas,46290,Full Circle/LSCG,46223,Treyvon Tillman,,102,On Track,Received,,46224,Yes,59181,Yes,Locates Called,46230,,,,,4718,,8078,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
-D-HLC511,Pinellas,46290,Full Circle/LSCG,46223,Treyvon Tillman,,93,On Track,Received,,46224,Yes,72479.5,Yes,Locates Called,46227,,,,,5861,,7140,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
-D-HLC512,Pinellas,46290,Brothers,46223,Anthony Adum,,67,On Track,Received,,46226,Yes,86106.8,Yes,Locates Called,46226,,,,,7115,,7115,0,,,0,0,0,7/14 NTP Package Received
-D-HLC513,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112719,91,On Track,Received,,,Yes,79458,Yes,Locates Called,46220,,,,,6519,,5454,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
-D-HLC514,Pinellas,46290,APT Communications  ,46219,Joshua Pacheco,PPM112724,83,On Track,Received,,46223,Yes,87651,Yes,Locates Called,46223,,,,,7199,,8272,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.
-D-HLC515,Pinellas,46290,Randy's Utilities,46241,Joshua Pacheco,,18,On Track,Received,,46246,Yes,80560,Yes,Locates Called,46246,,,,,6416,,6416,0,,,0,0,0,8/5 NTP Package Received--8/6 PO Received.
-D-HLC516,Pinellas,46290,R&F Underground Construction Inc,46241,Joshua Pacheco,,90,On Track,Received,,46237,Yes,113855.5,Yes,Locates Called,46237,,,,,8970,,8970,0,,,0,0,0,7/31 NTP Package Received.
-D-HLC517,Pinellas,46290,ASM Utilities,46219,Matthew Nunes,PPM112721,83,On Track,Received,,,Yes,79947,Yes,Locates Called,46230,,,,,6058,,6058,0,,,0,0,0,7/14 NTP Package Received
-D-HLC518,Pinellas,46290,ASM Utilities,46219,Matthew Nunes,PPM112722,93,On Track,Received,,,Yes,74446.5,Yes,In Process,46230,,,,,5775,1888,5775,0.326926406926407,,,0,0,0,7/14 NTP Package Received
-D-HLC519,Pinellas,46290,Brothers,46245,Anthony Adum,,44,On Track,Received,,,Yes,84001.5,Yes,Not Started,,,,,,6969,,6969,0,,,,,,7/31 NTP Package Received.
-FB-HLC512,Pinellas,46290,Brothers,46223,Anthony Adum,PPM112758,0,On Track,Received,,46225,Yes,71505.7,Yes,In Process,46225,,,,,5642,745,2879,0.132045373980858,46241,,0,0,0,7/13 NTP Package Received
-FB-HLC519,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112720,0,On Track,Received,,,Yes,25127.05,Yes,Locates Called,46220,,,,,2013,,2013,0,,,0,0,0,7/14 NTP Package Received
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Market 2 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-D-HWP603,Lakeland,46041,,,,PLK105393,43,On Track,Pending,On Hold Per Tillman,,Yes,47561.5,Yes,Not Started,,,,,,3905,,3905,0,,,0,0,0,11/11 Pending Permit.
-FB-HWP376,Lakeland,46006,Brothers,45936,Miguel Herrero,PLK102584,0,On Track,Received,On Hold Per Tillman,N/A,Yes,54857.5,Yes,In Process,45933,,,,,4104,3928,176,0.957115009746589,45938,,0,0,0,"9/29 FDOT Permit Received.Assigned to brothers 9-30/CX Began 10/8. 10/21 FDOT is complete, wtg on city permit 12-15"
-FB-HWP476,Lakeland,46233,J. Garcia Underground,46169,Miguel Herrero,PLK111960,0,On Track,Received,,N/A,Yes,88403.8,Yes,In Process,46169,,,,,6992,6595,397,0.943220823798627,46195,,0,0,0,5/26 NTP Package Received/White lined and Locates done 5-27-2026/ -- 6-15-26 waiting on water locates and encroachment./Cx start 6-22/Locates were refreshed due to expiration 6-26/City portion completed. DOT crossing US 98N scheduled for 7/13./Pending Encroachment Agreement for I4 from Tillman
-FB-HWP881,Lakeland,46142,Splice Only Project,,Eric,PLK105476,0,On Track,Received,On Hold Per Tillman,,Yes,255.05,Yes,Locates Called,,,,,,3,,3,0,,,0,0,0,11/17 Pending Permit.-Splice Only Project.
-FB-HWP876,Lakeland,46052,,45866,Miguel Herrero,PLK98825,0,On Track,Pending,On Hold Per Tillman,45866,Yes,18401.05,Yes,Not Started,45866,,,,,1403,,1403,0,,,0,0,0,"Need city, App only. 7/28- Assigned to Brothers LOC/DT requested. LC 12-30"
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Market 3 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-BHUD-FOE-401-W,Bradenton,46295,North Path,46231,Brenton Copelin,MAN112893,0,On Track,Received,,,Yes,18856.2,Yes,Locates Called,46234,,,,,1412,,1412,0,,,0,0,0,7/24 NTP Package Recived--Pending Fiber Details Splcing Document
-D-HLX408,Bradenton,46264,North Path,46233,Brenton Copelin,MAN112892,58,On Track,Received,,,Yes,71336.1,Yes,Locates Called,46234,,,,,5678,,5678,0,,,0,0,0,7/29 NTP Package Received.
-D-HLX502,Bradenton,46191,North Path,46171,Cody,,61,On Track,Received,,,Yes,44936,Yes,In Process,46146,,,,,3375,2669,706,0.790814814814815,46245,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
-D-HLX510,Bradenton,46191,North Path,46171,Cody,,78,On Track,Received,,,Yes,58190,Yes,In Process,46174,,,,,4283,2157,2126,0.503618958673827,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again
-FB-HLX175,Bradenton,46295,Lightspeed In-House,46225,Brenton Copelin,MAN112869,0,On Track,Received,,,Yes,36166.65,Yes,In Process,46226,,,,,3036,1171,1865,0.38570487483531,,,0,0,0,7/21 NTP Package Received
-FB-HOE179,Bradenton,46040,North Path,46125,Cody,MAN104758,0,On Track,Received,,,Yes,18171.6,Yes,Locates Called,46126,,,,,1514,,1514,0,,,0,0,0,10/27 FDOT Permit Received--NTP Package Missing The Fiber Details Splicing Document. 4-24-25 On hold per Tillman
-FB-HOE401-V4,Bradenton,46172,Lightspeed In-House,46231,Cody,MAN112894,0,On Track,Received,,,Yes,3443,Yes,Locates Called,46234,,,,,224,,224,0,,,0,0,0,"4/24 Pending Fiber Details Splicing Document, 7/28/26 Reassigned to In House"
-FB-HOE401-V6,Bradenton,46295,Lightspeed In-House,46232,Brenton Copelin,,0,On Track,Received,,,Yes,3232.9,Yes,Locates Called,46233,,,,,194,,194,0,,,0,0,0,"7/24 NTP Package Recived--Pending Fiber Details Splcing Document, 7/29/26 Assigned to In House"
-North Oaks Estates,Bradenton,46160,Mid Florida Contractors,,,,107,On Track,Pending,On Hold,,Yes,175204.4,Yes,Not Started,,,,,,8686,,8686,0,,,0,0,0,4/14 SOW Received. 
-Plantation Bay,Bradenton,46233,Mid Florida Contractors,46212,Cody,FM112414,88,On Track,Not Required,,,Yes,101036.5,Yes,Locates Called,46224,,,,,12305,,12305,0,,,0,0,0,6/11 NTP Package Received.
-BHCD-FPW-03-E,Fort Myers,46172,Lopez Underground,46196,Joshua,,0,On Track,Received,,,Yes,43061.3,Yes,In Process,46126,,,,,11789,4819,6970,0.40877088811604,46210,,0,0,0,
-D-HDF708,Fort Myers,46081,GN Systems,46038,Joshua,MAN104766,88,On Track,Pending,Permits,46021,Yes,79638,Yes,In Process,46028,,,,,6613,6302,311,0.95297141993044,46042,,0,0,0,10/31 Permit Received With NTP Package./  2/4 CX Construction Continues--Progress At 75% Complete./  2/5 CX Construction Continues--Progress At 85% Complete./  2/6 CX Construction Continues--Progress At 85% Complete./  2/25 CX Construction Continues--Progress at 95% Complete.
-D-HDF712,Fort Myers,46081,GN Systems,46055,Joshua,MAN108516,86,On Track,Pending,Permits,46056,Yes,97494,Yes,In Process,46062,,,,,8265,8140,125,0.984875983061101,46064,,0,0,0,2/12 CX Construction Continues--Progress At 58% Complete./  2/13 CX Construction Continues--Progress At 77% Complete./  2/23 CX Construction Continues--Progress At 90% Complete./  2/25 CX Construction Continues--Progress At 98% Complete.
-D-HDF717,Fort Myers,46325,,,,,86,On Track,Received,,,Yes,83702,Yes,Not Started,,,,,,6907,,6907,0,,,0,0,0,8/12 NTP Package and PO Received--PO In Full Circles Name Not ITG.
-D-HDF740,Fort Myers,46171,GN Systems,46043,Joshua,MAN104770,26,On Track,Pending,Permits,,Yes,35576,Yes,In Process,46028,,,,,3150,2970,180,0.942857142857143,46043,,0,0,0,10/29 Permit Received With NTP Package./  Requires FDOT Permit.
-D-HPW326,Fort Myers,46295,,,,,81,On Track,Received,,,Yes,77302,Yes,Not Started,,,,,,6384,,6384,0,,,0,0,0,7/29 NTP Package Recived
-D-HPW327,Fort Myers,46295,,,,,85,On Track,Received,,,Yes,78787,Yes,Not Started,,,,,,6242,,6242,0,,,0,0,0,7/29 NTP Package Recived
-D-HPW328,Fort Myers,46295,,,,,84,On Track,Received,,,Yes,45941.5,Yes,Not Started,,,,,,3794,,3794,0,,,0,0,0,7/29 NTP Package Recived
-D-HPW329,Fort Myers,46295,,,,,71,On Track,Received,,,Yes,71012.5,Yes,Not Started,,,,,,5739,,5739,0,,,0,0,0,7/24 NTP Package Recived
-D-HPW330,Fort Myers,46295,,,,,80,On Track,Received,,,Yes,78742,Yes,Not Started,,,,,,6179,,6179,0,,,0,0,0,7/29 NTP Package Recived
-D-HPW345,Fort Myers,46295,,,,,87,On Track,Received,,,Yes,93327,Yes,Not Started,,,,,,7138,,7138,0,,,0,0,0,7/29 NTP Package Recived.
-D-HPW346,Fort Myers,46295,A1 Broadband ,46245,Joshua ,,89,On Track,Received,,,Yes,93910.15,Yes,Not Started,,,,,,7299,,7299,0,,,0,0,0,7/29 NTP Package Recived
-D-HPW348,Fort Myers,46295,Alpha Omega,46240,Joshua,FM112925,83,On Track,Received,,,Yes,78322,Yes,Not Started,,,,,,6192,,6192,0,,,0,0,0,7/29 NTP Package Recived
-D-HPW349,Fort Myers,46260,Gulfstream,46224,Joshua,FM112767,80,On Track,Received,,,Yes,77657.7,Yes,Not Started,,,,,,6243,,6243,0,,,0,0,0,6/11 NTP Package Received.
-D-HPW350,Fort Myers,46295,,,,,76,On Track,Received,,,Yes,88272,Yes,Not Started,,,,,,7206,,7206,0,,,0,0,0,7/29 NTP Package Recived
-D-HPW351,Fort Myers,46295,,,,,83,On Track,Received,,,Yes,57368,Yes,Not Started,,,,,,4517,,4517,0,,,0,0,0,7/24 NTP Package Recived
-D-HPW361,Fort Myers,46229,,,,,82,On Track,Received,,,Yes,85513,Yes,Not Started,,,,,,6678,,6678,0,,,0,0,0,6/11 NTP Package Received.
-FB-HPW331,Fort Myers,46227,Gulfstream,46213,Joshua,FM112418,0,On Track,Received,,,Yes,25174.45,Yes,Locates Called,46238,,,,,2721,,2721,0,,,0,0,0,6/9 NTP Package Received
-D-HTG201,Fort Myers,46203,Lopez Underground,46171,Joshua,,53,On Track,Received,,,Yes,56455,Yes,Completed,46174,,,,,4814,5133,-319,1.06626506024096,46184,46204,0,0,0,4/30 NTP Received 7-17-26 tillman approved bury the route that is on private property and close the job.
-D-HTG210,Fort Myers,46265,Gulfstream,46231,Joshua,FM112876,77,On Track,Received,,,Yes,68598,Yes,Locates Called,46232,,,,,5803,,5803,0,,,0,0,0,7/17 NTP Received
-D-HTG208,Fort Myers,46203,Lopez Underground,46141,Joshua,,74,On Track,Received,,,Yes,92274,Yes,In Process,46142,,,,,8145,7598,547,0.932842234499693,46149,,0,0,0,4/24 NTP Received 7-13-26 permit waiting on new permit
-D-HTG212,Fort Myers,46264,Gulfstream,46231,Joshua,FM112875,85,On Track,Received,,,Yes,64416.5,Yes,In Process,46232,,,,,5445,2518,2927,0.462442607897153,46245,,0,0,0,7/24 NTP Package Recived
-D-HTG213,Fort Myers,46295,HD Cable,46231,Joshua,FM112877,46,On Track,Received,,,Yes,54627.5,Yes,Locates Called,46232,,,,,4834,,4834,0,,,0,0,0,7/24 NTP Package Recived
-D-HTG214,Fort Myers,46295,HD Cable,46231,Joshua,FM112878,82,On Track,Received,,,Yes,77688.5,Yes,Locates Called,46232,,,,,6136,,6136,0,,,0,0,0,7/24 NTP Package Recived
-D-HTG215,Fort Myers,46264,Gulfstream,46219,Joshua,FM112727,56,On Track,Received,,,Yes,55008,Yes,In Process,46220,,,,,4625,4534,91,0.980324324324324,46231,,0,0,0,7/7 NTP Package Received.
-D-HTG216,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112879,79,On Track,Received,,,Yes,80274,Yes,In Process,46232,,,,,6786,6555,231,0.965959328028294,46241,,0,0,0,7/24 NTP Package Recived
-D-HTG217,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112881,77,On Track,Received,,,Yes,76557.5,Yes,In Process,46232,,,,,6200,3376,2824,0.544516129032258,46245,,0,0,0,7/24 NTP Package Recived
-D-HTG218,Fort Myers,46233,Gulfstream,46219,Joshua,FM112751,48,On Track,Received,,,Yes,50669,Yes,In Process,46220,,,,,3600,3834,-234,1.065,46226,,0,0,0,5/29 NTP Received
-D-HTG229,Fort Myers,46203,Lopez Underground,46169,Joshua,,70,On Track,Received,,,Yes,65362,Yes,In Process,46170,,,,,5460,5097,363,0.933516483516484,46189,,0,0,0,5/8 NTP Package Received
-D-HTG230,Fort Myers,46233,Restoring Pro,46219,Joshua,FM112752,79,On Track,Received,,,Yes,89293.95,Yes,In Process,46220,,,,,7494,3406,4088,0.454496930878036,46231,,0,0,0,4/14 NTP Received
-D-HTG231,Fort Myers,46264,Restoring Pro,46231,Joshua,FM112883,90,On Track,Received,,,Yes,90888,Yes,In Process,46232,,,,,7881,180,7701,0.0228397411496003,,,0,0,0,5/29 NTP Received
-D-HTG233,Fort Myers,46203,Lopez Underground,46156,Joshua,,71,On Track,Received,,,Yes,91537.75,Yes,In Process,46157,,,,,7255,6960,295,0.95933838731909,46174,,0,0,0,4/14 NTP Received
-D-HTG238,Fort Myers,46203,Lopez Underground,46171,Joshua,,74,On Track,Received,,,Yes,70534.5,Yes,In Process,46174,,,,,5756,5626,130,0.977414871438499,46191,,0,0,0,5/8 NTP Package Received
-D-HTG305,Fort Myers,46203,,,,,56,On Track,Received,,,Yes,50042,Yes,Not Started,,,,,,4159,,4159,0,,,0,0,0,4/30 NTP Received.
-D-HTG307,Fort Myers,46203,HAS Global,46184,Joshua,,62,On Track,Received,,,Yes,48766,Yes,Locates Called,46185,,,,,4009,,4009,0,,,0,0,0,4/30 NTP Received.
-FB-HTG238,Fort Myers,46233,Lopez Underground,46213,Joshua,FM112420,0,On Track,Received,,,Yes,72557.35,Yes,In Process,46213,,,,,5666,4426,1240,0.781150723614543,,,0,0,0,6/15 NTP Package Received
-FB-HTG279,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112884,0,On Track,Received,,,Yes,17689.15,Yes,Locates Called,46232,,,,,949,,949,0,,,0,0,0,7/24 NTP Package Recived
-FB-HTG288,Fort Myers,46203,Alpha Omega,46184,Joshua,,0,On Track,Received,,,Yes,75219.2,Yes,In Process,46189,,,,,5902,5590,312,0.88,46210,,0,0,0,5/8 NTP Package Received
-Promenades At The Forum,Fort Myers,46172,APT Communications / New Gen Unlimited,,,,402,On Track,Not Required,,46092,Yes,438978.5,Yes,Locates Called,46091,,,,,30807,,30807,0,,,0,0,0,3/16/2026 on hold needs permit per tillman. 4/2 Pending Utility Permit From Tillman.
-D-HSF322,Port Charlotte,46172,Lopez Underground,46210,Joshua,,89,On Track,Received,,,Yes,81150,Yes,Locates Called,46148,,,,,6825,,6825,0,,,0,0,0,4/21 NTP Received.
-D-HSF401,Port Charlotte,46295,,,,,79,On Track,Received,,,Yes,75443.75,Yes,Not Started,,,,,,5953,,5953,0,,,0,0,0,7/24 PO Received.
-D-HSF402,Port Charlotte,46295,,,,,78,On Track,Received,,,Yes,72242,Yes,Not Started,,,,,,5890,,5890,0,,,0,0,0,7/24 PO Received.
-D-HSF419,Port Charlotte,46295,,,,,49,On Track,Received,,,Yes,62657,Yes,Not Started,,,,,,5185,,5185,0,,,0,0,0,7/31 NTP Package Received.
-D-HSF420,Port Charlotte,46295,,,,,49,On Track,Received,,,Yes,58273.5,No,Not Started,,,,,,4709,,4709,0,,,0,0,0,8/3 PO Uploaded Into SiteTracker.
-FB-HSF304,Port Charlotte,46172,Lightspeed In-House,46140,Joshua,,0,On Track,Received,,,Yes,33518.7,Yes,In Process,46140,,,,,3693,2153,1540,0.58299485513133,46146,,0,0,0,4/21 NTP Received.
-FB-HSF606,Port Charlotte,46111,,,,,0,On Track,Pending,SOW Pending,,No,,No,Not Started,,,,,,,,0,0,,,0,0,0,2/19 Pending NTP Package and SOW.
-FB-HSF675,Port Charlotte,46111,,,,,0,On Track,Pending,SOW Pending,,No,,No,Not Started,,,,,,,,0,0,,,0,0,0,2/19 Pending NTP Package and SOW.
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Market 4 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Market 7 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-BHC-FSW-04-E,Kissimmee,46326,,,,,0,On Track,Received,,,Yes,68022.75,Yes,Not Started,,,,,,4564,,4564,,,,0,0,0,8/4 PO Received.
-BHT-FSE-01,Kissimmee,46326,BICOM,46237,Miguel,,0,On Track,Received,,46237,Yes,75444.55,Yes,Locates Called,46237,,,,,5936,,5936,,,,0,0,0,7/30 NTP Package Recived/Locates called 8/3
-D-HSW401,Kissimmee,46318,,,,,60,On Track,Pending,Permits,,Yes,82732,Yes,Not Started,,,,,,7117,,7117,,,,0,0,0,2/11 Pending Permit
-D-HSW402,Kissimmee,46318,,,,,83,On Track,Pending,Permits,,Yes,110980,Yes,Not Started,,,,,,9590,,9590,,,,0,0,0,2/11 Pending Permit
-D-HSW403,Kissimmee,46318,,,,,84,On Track,Received,,,Yes,108948,Yes,Not Started,,,,,,9329,,9329,,,,0,0,0,5/18 Cannot Approve PO In SiteTracker.
-D-HSW404,Kissimmee,46318,,,,,89,On Track,Received,,,Yes,116114,Yes,Not Started,,,,,,9709,,9709,,,,0,0,0,5/18 Cannot Approve PO In SiteTracker.
-D-HSW405,Kissimmee,46318,,,,,79,On Track,Pending,Permits,,Yes,108665,Yes,Not Started,,,,,,9263,,9263,,,,0,0,0,2/11 Pending Permit
-D-HSW406,Kissimmee,46318,,,,,87,On Track,Pending,Permits,,Yes,120731,Yes,Not Started,,,,,,10385,,10385,,,,0,0,0,5/19 Pending Notice To Proceed From Tillman
-D-HSW407,Kissimmee,46351,,,,,86,On Track,Pending,Permits,,Yes,111864,Yes,Not Started,,,,,,9398,,9398,,,,0,0,0,2/11 Pending Permit
-D-HSW408,Kissimmee,46351,,,,,63,On Track,Pending,Permits,,Yes,88533.5,Yes,Not Started,,,,,,7517,,7517,,,,0,0,0,2/11 Pending Permit
-D-HSW409,Kissimmee,46379,,,,,78,On Track,Received,,,Yes,75143.5,Yes,Not Started,,,,,,5920,,5920,,,,0,0,0,5/18 Pending Notice To Proceed From Tillman
-D-HSW410,Kissimmee,46487,,,,,60,On Track,Pending,Permits,,Yes,66890,Yes,Not Started,,,,,,5589,,5589,,,,0,0,0,2/11 Pending Permit
-D-HSW411,Kissimmee,46310,,,,,60,On Track,Pending,Permits,,Yes,65974,Yes,Not Started,,,,,,5515,,5515,,,,0,0,0,2/11 Pending Permit
-D-HSW412,Kissimmee,46492,,,,,62,On Track,Pending,Permits,,Yes,63989.5,Yes,Not Started,,,,,,5191,,5191,,,,0,0,0,2/11 Pending Permit
-D-HSW413,Kissimmee,46487,,,,,60,On Track,Pending,Permits,,Yes,67355.5,Yes,Not Started,,,,,,5620,,5620,,,,0,0,0,2/11 Pending Permit
-D-HSW414,Kissimmee,46379,,,,,86,On Track,Pending,Permits,,Yes,86438.5,Yes,Not Started,,,,,,6864,,6864,,,,0,0,0,2/11 Pending Permit
-D-HSW415,Kissimmee,46487,,,,,89,On Track,Pending,Permits,,Yes,88748.5,Yes,Not Started,,,,,,6461,,6461,,,,0,0,0,2/11 Pending Permit
-D-HSW416,Kissimmee,46351,,,,,25,On Track,Pending,Permits,,Yes,33288,Yes,Not Started,,,,,,2790,,2790,,,,0,0,0,2/11 Pending Permit
-D-HSW417,Kissimmee,46351,,,,,79,On Track,Pending,Permits,,Yes,89875.5,Yes,Not Started,,,,,,7368,,7368,,,,0,0,0,2/11 Pending Permit
-D-HSW418,Kissimmee,46318,,,,,84,On Track,Pending,Permits,,Yes,95052.5,Yes,Not Started,,,,,,7844,,7844,,,,0,0,0,2/11 Pending Permit
-D-HSW419,Kissimmee,46318,,,,,88,On Track,Received,,,Yes,102476,Yes,Not Started,,,,,,8148,,8148,,,,0,0,0,5/18 Pending Notice To Proceed From Tillman
-D-HSW420,Kissimmee,46318,,,,,60,On Track,Received,,,Yes,80344,Yes,Not Started,,,,,,6829,,6829,,,,0,0,0,5/18 Pending Notice To Proceed From Tillman
-D-HSW421,Kissimmee,46318,,,,,61,On Track,Pending,Permits,,Yes,73166,Yes,Not Started,,,,,,6157,,6157,,,,0,0,0,2/11 Pending Permit
-D-HSW422,Kissimmee,46318,,,,,89,On Track,Pending,Permits,,Yes,114642,Yes,Not Started,,,,,,9537,,9537,,,,0,0,0,2/11 Pending Permit
-D-HSW423,Kissimmee,46415,,,,,87,On Track,Pending,Permits,,Yes,85589.5,Yes,Not Started,,,,,,6796,,6796,,,,0,0,0,2/11 Pending Permit
-D-HSW424,Kissimmee,46415,,,,,76,On Track,Pending,Permits,,Yes,76640,Yes,Not Started,,,,,,6149,,6149,,,,0,0,0,2/11 Pending Permit
-D-HSW425,Kissimmee,46367,,,,,89,On Track,Pending,Permits,,Yes,80780,Yes,Not Started,,,,,,6284,,6284,,,,0,0,0,2/11 Pending Permit for city
-D-HSW426,Kissimmee,46367,,,,,85,On Track,Pending,Permits,,Yes,95244,Yes,Not Started,,,,,,7743,,7743,,,,0,0,0,2/11 Pending Permit
-D-HSW427,Kissimmee,46415,,,,,87,On Track,Pending,Permits,,Yes,86888,Yes,Not Started,,,,,,6932,,6932,,,,0,0,0,2/11 Pending Permit
-D-HSW428,Kissimmee,46487,,,,,87,On Track,Pending,Permits,,Yes,75700,Yes,Not Started,,,,,,6213,,6213,,,,0,0,0,2/11 Pending Permit
-D-HSW429,Kissimmee,46487,,,,,52,On Track,Pending,Permits,,Yes,53698,Yes,Not Started,,,,,,4339,,4339,,,,0,0,0,2/11 Pending Permit
-D-HSW430,Kissimmee,46487,,,,,48,On Track,Pending,Permits,,Yes,48883,Yes,Not Started,,,,,,3940,,3940,,,,0,0,0,2/11 Pending Permit
-D-HSW431,Kissimmee,46379,,,,,88,On Track,Pending,Permits,,Yes,83382,Yes,Not Started,,,,,,6855,,6855,,,,0,0,0,2/11 Pending Permit
-D-HSW432,Kissimmee,46415,,,,,90,On Track,Pending,Permits,,Yes,88834,Yes,Not Started,,,,,,7147,,7147,,,,0,0,0,2/11 Pending Permit
-D-HSW433,Kissimmee,46487,,,,,83,On Track,Pending,Permits,,Yes,81027.5,Yes,Not Started,,,,,,6376,,6376,,,,0,0,0,2/11 Pending Permit
-D-HSW434,Kissimmee,46415,,,,,63,On Track,Pending,Permits,,Yes,60264,Yes,Not Started,,,,,,4784,,4784,,,,0,0,0,2/11 Pending Permit
-D-HSW435,Kissimmee,46367,,,,,86,On Track,Pending,Permits,,Yes,81096,Yes,Not Started,,,,,,6387,,6387,,,,0,0,0,2/11 Pending Permit
-D-HSW436,Kissimmee,46367,,,,,81,On Track,Pending,Permits,,Yes,79796,Yes,Not Started,,,,,,6372,,6372,,,,0,0,0,2/11 Pending Permit
-D-HSW437,Kissimmee,46379,,,,,77,On Track,Pending,Permits,,Yes,69082,Yes,Not Started,,,,,,5363,,5363,,,,0,0,0,2/11 Pending Permit
-D-HSW438,Kissimmee,46379,,,,,67,On Track,Pending,Permits,,Yes,65448,Yes,Not Started,,,,,,5199,,5199,,,,0,0,0,2/11 Pending Permit
-D-HSW439,Kissimmee,46379,,,,,90,On Track,Pending,Permits,,Yes,116020.5,Yes,Not Started,,,,,,9771,,9771,,,,0,0,0,2/11 Pending Permit
-D-HSW440,Kissimmee,46379,,,,,90,On Track,Pending,Permits,,Yes,114306,Yes,Not Started,,,,,,9562,,9562,,,,0,0,0,2/11 Pending Permit
-D-HSW441,Kissimmee,46351,,,,,87,On Track,Pending,Permits,,Yes,80784,Yes,Not Started,,,,,,6309,,6309,,,,0,0,0,2/11 Pending Permit
-D-HSW442,Kissimmee,46379,,,,,90,On Track,Pending,Permits,,Yes,125540.85,Yes,Not Started,,,,,,10260,,10260,,,,0,0,0,2/11 Pending Permit
-D-HSW443,Kissimmee,46487,,,,,89,On Track,Pending,Permits,,Yes,119327,Yes,Not Started,,,,,,10080,,10080,,,,0,0,0,2/11 Pending Permit
-D-HSW444,Kissimmee,46340,,,,,76,On Track,Pending,Permits,,Yes,85720,Yes,Not Started,,,,,,6859,,6859,,,,0,0,0,2/11 Pending Permit
-D-HSW445,Kissimmee,46340,,,,,84,On Track,Pending,Permits,,Yes,75682,Yes,Not Started,,,,,,5873,,5873,,,,0,0,0,2/11 Pending Permit
-D-HSW446,Kissimmee,46340,,,,,55,On Track,Pending,Permits,,Yes,60784,Yes,Not Started,,,,,,4945,,4945,,,,0,0,0,2/11 Pending Permit
-D-HSW447,Kissimmee,46367,,,,,54,On Track,Pending,Permits,,Yes,52670,Yes,Not Started,,,,,,4275,,4275,,,,0,0,0,2/11 Pending Permit
-D-HSW448,Kissimmee,46379,,,,,88,On Track,Received,,,Yes,86455.5,No,Not Started,,,,,,6378,,6378,,,,0,0,0,7/30 NTP Package Recived
-FB-HSW406,Kissimmee,46318,,,,,0,On Track,Received,,,Yes,94474.5,No,Not Started,,,,,,7373,,7373,,,,0,0,0,7/30 NTP Package Recived
-FB-HSW416,Kissimmee,46318,,,Miguel,,0,On Track,Pending,Permits,,Yes,74145.85,Yes,Not Started,,,,,,5781,,5781,,,,0,0,0,7/24 NTP Package Recived
-FB-HSW417,Kissimmee,46318,,,,,0,On Track,Received,,,No,,No,Not Started,,,,,,9051,,9051,,,,0,0,0,2/11 Pending SOW and Permit
-FB-HSW419,Kissimmee,46318,,,,,0,On Track,Pending,Permits,,Yes,9232.4,Yes,Not Started,,,,,,7261,,7261,,,,0,0,0,6/10 NTP Package Received With Permit.
-FB-HSW425,Kissimmee,46367,BICOM,46238,Miguel,,0,On Track,Received,,46239,Yes,126441.9,Yes,Locates Called,46240,,,,,9638,,9638,,,,0,0,0,8/4 PO Received--FDOT Permit Received.Locates called 8-6/
-FB-HSW443,Kissimmee,46318,,,,,0,On Track,Received,,,Yes,111398.8,Yes,Not Started,,,,,,8746,,8746,,,,0,0,0,7/30 PO Received
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Market 10 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes
-D-HBR257,Miami,46387,Yosep AER,46029,Jose,,87,On Track,Received,,46198,Yes,108458.4,Yes,In Process,46190,,,,,8596,8403,193,0.977547696603071,46203,,0,0,0,12/24 NTP Package Received. Assigned to Yosep 1/7/26
-D-HBR258,Miami,46326,,46029,Jose,,70,On Track,Received,,,Yes,70105.25,Yes,In Process,46213,,,,,5648,4513,1135,0.799043909348442,,,0,0,0,12/24 NTP Package Received. Assigned to Yosep 1/7/26
-D-HBR259,Miami,46387,,,,,77,On Track,Received,,,Yes,78047.35,Yes,Locates Called,46241,,,,,6238,,6238,0,,,0,0,0,12/24 NTP Package Received. Assigned to Yosep 1/7/26
-D-HBR260,Miami,46387,,46029,Jose,,52,On Track,Received,,,Yes,91411.65,Yes,Not Started,,,,,,5926,,5926,0,,,0,0,0,12/24 NTP Package Received.
-D-HBR261,Miami,46387,,46029,Jose,,81,On Track,Received,,,Yes,105892.05,Yes,Not Started,,,,,,8641,,8641,0,,,0,0,0,12/24 NTP Package Received.
-D-HBR262,Miami,46387,,46029,Jose,,79,On Track,Received,,,Yes,88420,Yes,Not Started,,,,,,7502,,7502,0,,,0,0,0,12/24 NTP Package Received.
-FB-HBR252,Miami,46173,Yosep AER,46029,Jose,,0,On Track,Received,,,Yes,50239.7,Yes,In Process,46024,,,,,3682,3438,244,0.933731667571972,46155,,0.5,0,0,12/24 NTP Package Received--Pending Fiber Details Splicing Document. Assigned to Yosep 1/7/26. 4/2 Pending Canal Permit From Tillman. 5/5 PO Received.
+Market 1 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP608,Clearwater,46325,Lightspeed In-House,46161,Robert Portee,PPM111675,94,On Track,Received,,,Yes,94021.5,Yes,In Process,46162,,,,,7741,2111,5630,0.272703785040692,46241,,0,0,0,5/1 NTP Package Received./Whitelined  5-19/ locates called 5-20/Will be dortagged 5-21/Pending Locates cleared,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP626,Clearwater,46325,Brothers,46171,Anthony Adum,,75,On Track,Received,,,Yes,95477,Yes,In Process,46198,,,,,7966,5984,1982,0.751192568415767,46213,,0,0,0,5/1 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP627,Clearwater,46325,Brothers,46170,Marcelo Zaldivar,,97,On Track,Received,,,Yes,94688.5,Yes,In Process,46176,,,,,7856,6850,1006,0.871945010183299,46190,,0,0,0,5/1 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP629,Clearwater,46325,Brothers,46170,Anthony Adum,,51,On Track,Received,,,Yes,91700,Yes,In Process,46176,,,,,7529,7407,122,0.98379598884314,46191,,0,0,0,5/1 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP630,Clearwater,46325,Brothers,46171,Marcelo Zaldivar,,67,On Track,Received,,,Yes,100866,Yes,In Process,46175,,,,,9021,8341,680,0.924620330340317,46195,,0,0,0,5/1 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP631,Clearwater,46325,Brothers,46170,Treyvon Tillman,,93,On Track,Received,,,Yes,104934,Yes,In Process,46176,,,,,8701,6194,2507,0.711872198597862,46191,,0,0,0,5/1 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP635,Clearwater,46325,NIA Underground,46182,John E Williams,,57,On Track,Received,,,Yes,106431.5,Yes,In Process,46183,,,,,8751,7047,1704,0.805279396640384,46216,,0,0,0,5/12 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP636,Clearwater,46325,Brothers,46182,Anthony Adum,,86,Completed on Track,Received,,,Yes,97386.5,Yes,Completed,46188,,,,,7996,7742,254,0.968234117058529,46219,,0,0,0,5/1 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP637,Clearwater,46325,Lightspeed In-House,46171,Treyvon Tillman,,40,On Track,Received,,46182,Yes,91774,Yes,In Process,46171,,,,,7530,3925,3605,0.52124833997344,46217,,0,0,0,5/1 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP638,Clearwater,46325,Lightspeed In-House,47267,Treyvon Tillman,,88,On Track,Received,,46181,Yes,81059.5,Yes,In Process,46174,,,,,6647,4904,1743,0.737776440499473,46188,,0,0,0,5/1 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HPP631,Clearwater,46325,Brothers,46155,Anthony Adum,PPM111690 ,0,On Track,Received,,46154,Yes,65477.3,Yes,Locates Called,46157,,,,,5318,,5318,0,,,0,0,0,5/15 - Door Tagged/Whitelined - Locates called - 5/1 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HNP108/D-H0102E,St Petersburg,46080,Kattle One/LSCG,46018,John E Williams,PPM91941,89,On Track,Received,,46028,Yes,72131.5,Yes,In Process,46014,,,,,6182,5899,283,0.954221934648981,45891,,0,0,0,"5/11 - Stop work in place for City of St. Pete till 5/15 - 5/4 Will have to redrill 380' K1 drilled to deep and did not install the 2 tobys, Locates Called in  - 4-28 JW // REPAIRED 1 OF 2 DAPs. NEED TO FIND ISSUE WITH THE 2ND DAP LOCATION - 3.16 JW // LSCG QC discovered missing section of Route 2, called in locates and they are pending",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Market 1 NTP Number Pinellas,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP303,Pinellas,46262,R&F Underground Construction Inc,46171,Joshua Pacheco,,35,On Track,Received,,46183,Yes,98498,Yes,In Process,46183,,,,,7699,8024,-325,1.04221327445123,46195,,0,0,0,5/29 NTP Package Received--PO Received 6/1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPP311,Pinellas,46262,Legant Livings,46181,Joshua Pacheco,,85,On Track,Received,,46181,Yes,62709,Yes,In Process,46178,,,,,5055,5090,-35,1.00692383778437,46188,,0,0,0,5/29 NTP Package Received--PO Received 6/1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC505,Pinellas,46290,NIA Underground,,,,41,On Track,Received,,46225,Yes,78963.5,Yes,Locates Called,46225,,,,,5973,,7950,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC506,Pinellas,46290,Brothers,46223,Anthony Adum,,83,On Track,Received,,46232,Yes,63582,Yes,Locates Called,46232,,,,,5259,,5259,0,,,0,0,0,7/20 NTP and PO Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC507,Pinellas,46290,ASM Utilities,46223,Treyvon Tillman,,63,On Track,Received,,46224,Yes,78078,Yes,Locates Called,46230,,,,,6335,,4241,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC508,Pinellas,46290,ASM Utilities,46223,Treyvon Tillman,,69,On Track,Received,,,Yes,84458.5,Yes,Locates Called,46230,,,,,6831,,5374,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC510,Pinellas,46290,Full Circle/LSCG,46223,Treyvon Tillman,,102,On Track,Received,,46224,Yes,59181,Yes,Locates Called,46230,,,,,4718,,8078,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC511,Pinellas,46290,Full Circle/LSCG,46223,Treyvon Tillman,,93,On Track,Received,,46224,Yes,72479.5,Yes,Locates Called,46227,,,,,5861,,7140,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC512,Pinellas,46290,Brothers,46223,Anthony Adum,,67,On Track,Received,,46226,Yes,86106.8,Yes,Locates Called,46226,,,,,7115,,7115,0,,,0,0,0,7/14 NTP Package Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC513,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112719,91,On Track,Received,,,Yes,79458,Yes,Locates Called,46220,,,,,6519,,5454,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC514,Pinellas,46290,APT Communications  ,46219,Joshua Pacheco,PPM112724,83,On Track,Received,,46223,Yes,87651,Yes,Locates Called,46223,,,,,7199,,8272,0,,,0,0,0,7/13 NTP Package Received. 7/17 PO Received And Approved.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC515,Pinellas,46290,Randy's Utilities,46241,Joshua Pacheco,,18,On Track,Received,,46246,Yes,80560,Yes,Locates Called,46246,,,,,6416,,6416,0,,,0,0,0,8/5 NTP Package Received--8/6 PO Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC516,Pinellas,46290,R&F Underground Construction Inc,46241,Joshua Pacheco,,90,On Track,Received,,46237,Yes,113855.5,Yes,Locates Called,46237,,,,,8970,,8970,0,,,0,0,0,7/31 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC517,Pinellas,46290,ASM Utilities,46219,Matthew Nunes,PPM112721,83,On Track,Received,,,Yes,79947,Yes,Locates Called,46230,,,,,6058,,6058,0,,,0,0,0,7/14 NTP Package Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC518,Pinellas,46290,ASM Utilities,46219,Matthew Nunes,PPM112722,93,On Track,Received,,,Yes,74446.5,Yes,In Process,46230,,,,,5775,1888,5775,0.326926406926407,,,0,0,0,7/14 NTP Package Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLC519,Pinellas,46290,Brothers,46245,Anthony Adum,,44,On Track,Received,,,Yes,84001.5,Yes,Not Started,,,,,,6969,,6969,0,,,,,,7/31 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HLC512,Pinellas,46290,Brothers,46223,Anthony Adum,PPM112758,0,On Track,Received,,46225,Yes,71505.7,Yes,In Process,46225,,,,,5642,745,2879,0.132045373980858,46241,,0,0,0,7/13 NTP Package Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HLC519,Pinellas,46290,Power Connect,46219,Matthew Nunes,PPM112720,0,On Track,Received,,,Yes,25127.05,Yes,Locates Called,46220,,,,,2013,,2013,0,,,0,0,0,7/14 NTP Package Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Market 2 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HWP603,Lakeland,46041,,,,PLK105393,43,On Track,Pending,On Hold Per Tillman,,Yes,47561.5,Yes,Not Started,,,,,,3905,,3905,0,,,0,0,0,11/11 Pending Permit.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HWP376,Lakeland,46006,Brothers,45936,Miguel Herrero,PLK102584,0,On Track,Received,On Hold Per Tillman,N/A,Yes,54857.5,Yes,In Process,45933,,,,,4104,3928,176,0.957115009746589,45938,,0,0,0,"9/29 FDOT Permit Received.Assigned to brothers 9-30/CX Began 10/8. 10/21 FDOT is complete, wtg on city permit 12-15",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HWP476,Lakeland,46233,J. Garcia Underground,46169,Miguel Herrero,PLK111960,0,On Track,Received,,N/A,Yes,88403.8,Yes,In Process,46169,,,,,6992,6595,397,0.943220823798627,46195,,0,0,0,5/26 NTP Package Received/White lined and Locates done 5-27-2026/ -- 6-15-26 waiting on water locates and encroachment./Cx start 6-22/Locates were refreshed due to expiration 6-26/City portion completed. DOT crossing US 98N scheduled for 7/13./Pending Encroachment Agreement for I4 from Tillman,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HWP881,Lakeland,46142,Splice Only Project,,Eric,PLK105476,0,On Track,Received,On Hold Per Tillman,,Yes,255.05,Yes,Locates Called,,,,,,3,,3,0,,,0,0,0,11/17 Pending Permit.-Splice Only Project.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HWP876,Lakeland,46052,,45866,Miguel Herrero,PLK98825,0,On Track,Pending,On Hold Per Tillman,45866,Yes,18401.05,Yes,Not Started,45866,,,,,1403,,1403,0,,,0,0,0,"Need city, App only. 7/28- Assigned to Brothers LOC/DT requested. LC 12-30",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Market 3 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BHUD-FOE-401-W,Bradenton,46295,North Path,46231,Brenton Copelin,MAN112893,0,On Track,Received,,,Yes,18856.2,Yes,Locates Called,46234,,,,,1412,,1412,0,,,0,0,0,7/24 NTP Package Recived--Pending Fiber Details Splcing Document,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLX408,Bradenton,46264,North Path,46233,Brenton Copelin,MAN112892,58,On Track,Received,,,Yes,71336.1,Yes,Locates Called,46234,,,,,5678,,5678,0,,,0,0,0,7/29 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLX502,Bradenton,46191,North Path,46171,Cody,,61,On Track,Received,,,Yes,44936,Yes,In Process,46146,,,,,3375,2669,706,0.790814814814815,46245,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HLX510,Bradenton,46191,North Path,46171,Cody,,78,On Track,Received,,,Yes,58190,Yes,In Process,46174,,,,,4283,2157,2126,0.503618958673827,,,0,0,0,4/29 NTP Package Received. On hold due to community shutdown. CX start 7-13-26 again,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HLX175,Bradenton,46295,Lightspeed In-House,46225,Brenton Copelin,MAN112869,0,On Track,Received,,,Yes,36166.65,Yes,In Process,46226,,,,,3036,1171,1865,0.38570487483531,,,0,0,0,7/21 NTP Package Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HOE179,Bradenton,46040,North Path,46125,Cody,MAN104758,0,On Track,Received,,,Yes,18171.6,Yes,Locates Called,46126,,,,,1514,,1514,0,,,0,0,0,10/27 FDOT Permit Received--NTP Package Missing The Fiber Details Splicing Document. 4-24-25 On hold per Tillman,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HOE401-V4,Bradenton,46172,Lightspeed In-House,46231,Cody,MAN112894,0,On Track,Received,,,Yes,3443,Yes,Locates Called,46234,,,,,224,,224,0,,,0,0,0,"4/24 Pending Fiber Details Splicing Document, 7/28/26 Reassigned to In House",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HOE401-V6,Bradenton,46295,Lightspeed In-House,46232,Brenton Copelin,,0,On Track,Received,,,Yes,3232.9,Yes,Locates Called,46233,,,,,194,,194,0,,,0,0,0,"7/24 NTP Package Recived--Pending Fiber Details Splcing Document, 7/29/26 Assigned to In House",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+North Oaks Estates,Bradenton,46160,Mid Florida Contractors,,,,107,On Track,Pending,On Hold,,Yes,175204.4,Yes,Not Started,,,,,,8686,,8686,0,,,0,0,0,4/14 SOW Received. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Plantation Bay,Bradenton,46233,Mid Florida Contractors,46212,Cody,FM112414,88,On Track,Not Required,,,Yes,101036.5,Yes,Locates Called,46224,,,,,12305,,12305,0,,,0,0,0,6/11 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BHCD-FPW-03-E,Fort Myers,46172,Lopez Underground,46196,Joshua,,0,On Track,Received,,,Yes,43061.3,Yes,In Process,46126,,,,,11789,4819,6970,0.40877088811604,46210,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HDF708,Fort Myers,46081,GN Systems,46038,Joshua,MAN104766,88,On Track,Pending,Permits,46021,Yes,79638,Yes,In Process,46028,,,,,6613,6302,311,0.95297141993044,46042,,0,0,0,10/31 Permit Received With NTP Package./  2/4 CX Construction Continues--Progress At 75% Complete./  2/5 CX Construction Continues--Progress At 85% Complete./  2/6 CX Construction Continues--Progress At 85% Complete./  2/25 CX Construction Continues--Progress at 95% Complete.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HDF712,Fort Myers,46081,GN Systems,46055,Joshua,MAN108516,86,On Track,Pending,Permits,46056,Yes,97494,Yes,In Process,46062,,,,,8265,8140,125,0.984875983061101,46064,,0,0,0,2/12 CX Construction Continues--Progress At 58% Complete./  2/13 CX Construction Continues--Progress At 77% Complete./  2/23 CX Construction Continues--Progress At 90% Complete./  2/25 CX Construction Continues--Progress At 98% Complete.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HDF717,Fort Myers,46325,,,,,86,On Track,Received,,,Yes,83702,Yes,Not Started,,,,,,6907,,6907,0,,,0,0,0,8/12 NTP Package and PO Received--PO In Full Circles Name Not ITG.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HDF740,Fort Myers,46171,GN Systems,46043,Joshua,MAN104770,26,On Track,Pending,Permits,,Yes,35576,Yes,In Process,46028,,,,,3150,2970,180,0.942857142857143,46043,,0,0,0,10/29 Permit Received With NTP Package./  Requires FDOT Permit.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW326,Fort Myers,46295,,,,,81,On Track,Received,,,Yes,77302,Yes,Not Started,,,,,,6384,,6384,0,,,0,0,0,7/29 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW327,Fort Myers,46295,,,,,85,On Track,Received,,,Yes,78787,Yes,Not Started,,,,,,6242,,6242,0,,,0,0,0,7/29 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW328,Fort Myers,46295,,,,,84,On Track,Received,,,Yes,45941.5,Yes,Not Started,,,,,,3794,,3794,0,,,0,0,0,7/29 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW329,Fort Myers,46295,,,,,71,On Track,Received,,,Yes,71012.5,Yes,Not Started,,,,,,5739,,5739,0,,,0,0,0,7/24 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW330,Fort Myers,46295,,,,,80,On Track,Received,,,Yes,78742,Yes,Not Started,,,,,,6179,,6179,0,,,0,0,0,7/29 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW345,Fort Myers,46295,,,,,87,On Track,Received,,,Yes,93327,Yes,Not Started,,,,,,7138,,7138,0,,,0,0,0,7/29 NTP Package Recived.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW346,Fort Myers,46295,A1 Broadband ,46245,Joshua ,,89,On Track,Received,,,Yes,93910.15,Yes,Not Started,,,,,,7299,,7299,0,,,0,0,0,7/29 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW348,Fort Myers,46295,Alpha Omega,46240,Joshua,FM112925,83,On Track,Received,,,Yes,78322,Yes,Not Started,,,,,,6192,,6192,0,,,0,0,0,7/29 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW349,Fort Myers,46260,Gulfstream,46224,Joshua,FM112767,80,On Track,Received,,,Yes,77657.7,Yes,Not Started,,,,,,6243,,6243,0,,,0,0,0,6/11 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW350,Fort Myers,46295,,,,,76,On Track,Received,,,Yes,88272,Yes,Not Started,,,,,,7206,,7206,0,,,0,0,0,7/29 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW351,Fort Myers,46295,,,,,83,On Track,Received,,,Yes,57368,Yes,Not Started,,,,,,4517,,4517,0,,,0,0,0,7/24 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HPW361,Fort Myers,46229,,,,,82,On Track,Received,,,Yes,85513,Yes,Not Started,,,,,,6678,,6678,0,,,0,0,0,6/11 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HPW331,Fort Myers,46227,Gulfstream,46213,Joshua,FM112418,0,On Track,Received,,,Yes,25174.45,Yes,Locates Called,46238,,,,,2721,,2721,0,,,0,0,0,6/9 NTP Package Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG201,Fort Myers,46203,Lopez Underground,46171,Joshua,,53,On Track,Received,,,Yes,56455,Yes,Completed,46174,,,,,4814,5133,-319,1.06626506024096,46184,46204,0,0,0,4/30 NTP Received 7-17-26 tillman approved bury the route that is on private property and close the job.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG210,Fort Myers,46265,Gulfstream,46231,Joshua,FM112876,77,On Track,Received,,,Yes,68598,Yes,Locates Called,46232,,,,,5803,,5803,0,,,0,0,0,7/17 NTP Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG208,Fort Myers,46203,Lopez Underground,46141,Joshua,,74,On Track,Received,,,Yes,92274,Yes,In Process,46142,,,,,8145,7598,547,0.932842234499693,46149,,0,0,0,4/24 NTP Received 7-13-26 permit waiting on new permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG212,Fort Myers,46264,Gulfstream,46231,Joshua,FM112875,85,On Track,Received,,,Yes,64416.5,Yes,In Process,46232,,,,,5445,2518,2927,0.462442607897153,46245,,0,0,0,7/24 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG213,Fort Myers,46295,HD Cable,46231,Joshua,FM112877,46,On Track,Received,,,Yes,54627.5,Yes,Locates Called,46232,,,,,4834,,4834,0,,,0,0,0,7/24 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG214,Fort Myers,46295,HD Cable,46231,Joshua,FM112878,82,On Track,Received,,,Yes,77688.5,Yes,Locates Called,46232,,,,,6136,,6136,0,,,0,0,0,7/24 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG215,Fort Myers,46264,Gulfstream,46219,Joshua,FM112727,56,On Track,Received,,,Yes,55008,Yes,In Process,46220,,,,,4625,4534,91,0.980324324324324,46231,,0,0,0,7/7 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG217,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112881,77,On Track,Received,,,Yes,76557.5,Yes,In Process,46232,,,,,6200,3376,2824,0.544516129032258,46245,,0,0,0,7/24 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG218,Fort Myers,46233,Gulfstream,46219,Joshua,FM112751,48,On Track,Received,,,Yes,50669,Yes,In Process,46220,,,,,3600,3834,-234,1.065,46226,,0,0,0,5/29 NTP Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG229,Fort Myers,46203,Lopez Underground,46169,Joshua,,70,On Track,Received,,,Yes,65362,Yes,In Process,46170,,,,,5460,5097,363,0.933516483516484,46189,,0,0,0,5/8 NTP Package Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG230,Fort Myers,46233,Restoring Pro,46219,Joshua,FM112752,79,On Track,Received,,,Yes,89293.95,Yes,In Process,46220,,,,,7494,3406,4088,0.454496930878036,46231,,0,0,0,4/14 NTP Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG231,Fort Myers,46264,Restoring Pro,46231,Joshua,FM112883,90,On Track,Received,,,Yes,90888,Yes,In Process,46232,,,,,7881,180,7701,0.0228397411496003,,,0,0,0,5/29 NTP Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG233,Fort Myers,46203,Lopez Underground,46156,Joshua,,71,On Track,Received,,,Yes,91537.75,Yes,In Process,46157,,,,,7255,6960,295,0.95933838731909,46174,,0,0,0,4/14 NTP Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG238,Fort Myers,46203,Lopez Underground,46171,Joshua,,74,On Track,Received,,,Yes,70534.5,Yes,In Process,46174,,,,,5756,5626,130,0.977414871438499,46191,,0,0,0,5/8 NTP Package Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG305,Fort Myers,46203,,,,,56,On Track,Received,,,Yes,50042,Yes,Not Started,,,,,,4159,,4159,0,,,0,0,0,4/30 NTP Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HTG307,Fort Myers,46203,HAS Global,46184,Joshua,,62,On Track,Received,,,Yes,48766,Yes,Locates Called,46185,,,,,4009,,4009,0,,,0,0,0,4/30 NTP Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HTG238,Fort Myers,46233,Lopez Underground,46213,Joshua,FM112420,0,On Track,Received,,,Yes,72557.35,Yes,In Process,46213,,,,,5666,4426,1240,0.781150723614543,,,0,0,0,6/15 NTP Package Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HTG279,Fort Myers,46295,Lopez Underground,46231,Joshua,FM112884,0,On Track,Received,,,Yes,17689.15,Yes,Locates Called,46232,,,,,949,,949,0,,,0,0,0,7/24 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HTG288,Fort Myers,46203,Alpha Omega,46184,Joshua,,0,On Track,Received,,,Yes,75219.2,Yes,In Process,46189,,,,,5902,5590,312,0.88,46210,,0,0,0,5/8 NTP Package Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Promenades At The Forum,Fort Myers,46172,APT Communications / New Gen Unlimited,,,,402,On Track,Not Required,,46092,Yes,438978.5,Yes,Locates Called,46091,,,,,30807,,30807,0,,,0,0,0,3/16/2026 on hold needs permit per tillman. 4/2 Pending Utility Permit From Tillman.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSF322,Port Charlotte,46172,Lopez Underground,46210,Joshua,,89,On Track,Received,,,Yes,81150,Yes,Locates Called,46148,,,,,6825,,6825,0,,,0,0,0,4/21 NTP Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSF401,Port Charlotte,46295,,,,,79,On Track,Received,,,Yes,75443.75,Yes,Not Started,,,,,,5953,,5953,0,,,0,0,0,7/24 PO Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSF402,Port Charlotte,46295,,,,,78,On Track,Received,,,Yes,72242,Yes,Not Started,,,,,,5890,,5890,0,,,0,0,0,7/24 PO Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSF419,Port Charlotte,46295,,,,,49,On Track,Received,,,Yes,62657,Yes,Not Started,,,,,,5185,,5185,0,,,0,0,0,7/31 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSF420,Port Charlotte,46295,,,,,49,On Track,Received,,,Yes,58273.5,No,Not Started,,,,,,4709,,4709,0,,,0,0,0,8/3 PO Uploaded Into SiteTracker.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HSF304,Port Charlotte,46172,Lightspeed In-House,46140,Joshua,,0,On Track,Received,,,Yes,33518.7,Yes,In Process,46140,,,,,3693,2153,1540,0.58299485513133,46146,,0,0,0,4/21 NTP Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HSF606,Port Charlotte,46111,,,,,0,On Track,Pending,SOW Pending,,No,,No,Not Started,,,,,,,,0,0,,,0,0,0,2/19 Pending NTP Package and SOW.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HSF675,Port Charlotte,46111,,,,,0,On Track,Pending,SOW Pending,,No,,No,Not Started,,,,,,,,0,0,,,0,0,0,2/19 Pending NTP Package and SOW.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Market 4 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Market 7 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BHC-FSW-04-E,Kissimmee,46326,,,,,0,On Track,Received,,,Yes,68022.75,Yes,Not Started,,,,,,4564,,4564,,,,0,0,0,8/4 PO Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BHT-FSE-01,Kissimmee,46326,BICOM,46237,Miguel,,0,On Track,Received,,46237,Yes,75444.55,Yes,Locates Called,46237,,,,,5936,,5936,,,,0,0,0,7/30 NTP Package Recived/Locates called 8/3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW401,Kissimmee,46318,,,,,60,On Track,Pending,Permits,,Yes,82732,Yes,Not Started,,,,,,7117,,7117,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW402,Kissimmee,46318,,,,,83,On Track,Pending,Permits,,Yes,110980,Yes,Not Started,,,,,,9590,,9590,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW403,Kissimmee,46318,,,,,84,On Track,Received,,,Yes,108948,Yes,Not Started,,,,,,9329,,9329,,,,0,0,0,5/18 Cannot Approve PO In SiteTracker.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW404,Kissimmee,46318,,,,,89,On Track,Received,,,Yes,116114,Yes,Not Started,,,,,,9709,,9709,,,,0,0,0,5/18 Cannot Approve PO In SiteTracker.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW405,Kissimmee,46318,,,,,79,On Track,Pending,Permits,,Yes,108665,Yes,Not Started,,,,,,9263,,9263,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW406,Kissimmee,46318,,,,,87,On Track,Pending,Permits,,Yes,120731,Yes,Not Started,,,,,,10385,,10385,,,,0,0,0,5/19 Pending Notice To Proceed From Tillman,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW407,Kissimmee,46351,,,,,86,On Track,Pending,Permits,,Yes,111864,Yes,Not Started,,,,,,9398,,9398,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW408,Kissimmee,46351,,,,,63,On Track,Pending,Permits,,Yes,88533.5,Yes,Not Started,,,,,,7517,,7517,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW409,Kissimmee,46379,,,,,78,On Track,Received,,,Yes,75143.5,Yes,Not Started,,,,,,5920,,5920,,,,0,0,0,5/18 Pending Notice To Proceed From Tillman,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW410,Kissimmee,46487,,,,,60,On Track,Pending,Permits,,Yes,66890,Yes,Not Started,,,,,,5589,,5589,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW411,Kissimmee,46310,,,,,60,On Track,Pending,Permits,,Yes,65974,Yes,Not Started,,,,,,5515,,5515,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW412,Kissimmee,46492,,,,,62,On Track,Pending,Permits,,Yes,63989.5,Yes,Not Started,,,,,,5191,,5191,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW413,Kissimmee,46487,,,,,60,On Track,Pending,Permits,,Yes,67355.5,Yes,Not Started,,,,,,5620,,5620,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW414,Kissimmee,46379,,,,,86,On Track,Pending,Permits,,Yes,86438.5,Yes,Not Started,,,,,,6864,,6864,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW415,Kissimmee,46487,,,,,89,On Track,Pending,Permits,,Yes,88748.5,Yes,Not Started,,,,,,6461,,6461,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW416,Kissimmee,46351,,,,,25,On Track,Pending,Permits,,Yes,33288,Yes,Not Started,,,,,,2790,,2790,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW417,Kissimmee,46351,,,,,79,On Track,Pending,Permits,,Yes,89875.5,Yes,Not Started,,,,,,7368,,7368,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW418,Kissimmee,46318,,,,,84,On Track,Pending,Permits,,Yes,95052.5,Yes,Not Started,,,,,,7844,,7844,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW419,Kissimmee,46318,,,,,88,On Track,Received,,,Yes,102476,Yes,Not Started,,,,,,8148,,8148,,,,0,0,0,5/18 Pending Notice To Proceed From Tillman,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW420,Kissimmee,46318,,,,,60,On Track,Received,,,Yes,80344,Yes,Not Started,,,,,,6829,,6829,,,,0,0,0,5/18 Pending Notice To Proceed From Tillman,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW421,Kissimmee,46318,,,,,61,On Track,Pending,Permits,,Yes,73166,Yes,Not Started,,,,,,6157,,6157,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW422,Kissimmee,46318,,,,,89,On Track,Pending,Permits,,Yes,114642,Yes,Not Started,,,,,,9537,,9537,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW423,Kissimmee,46415,,,,,87,On Track,Pending,Permits,,Yes,85589.5,Yes,Not Started,,,,,,6796,,6796,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW424,Kissimmee,46415,,,,,76,On Track,Pending,Permits,,Yes,76640,Yes,Not Started,,,,,,6149,,6149,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW425,Kissimmee,46367,,,,,89,On Track,Pending,Permits,,Yes,80780,Yes,Not Started,,,,,,6284,,6284,,,,0,0,0,2/11 Pending Permit for city,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW426,Kissimmee,46367,,,,,85,On Track,Pending,Permits,,Yes,95244,Yes,Not Started,,,,,,7743,,7743,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW427,Kissimmee,46415,,,,,87,On Track,Pending,Permits,,Yes,86888,Yes,Not Started,,,,,,6932,,6932,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW428,Kissimmee,46487,,,,,87,On Track,Pending,Permits,,Yes,75700,Yes,Not Started,,,,,,6213,,6213,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW429,Kissimmee,46487,,,,,52,On Track,Pending,Permits,,Yes,53698,Yes,Not Started,,,,,,4339,,4339,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW430,Kissimmee,46487,,,,,48,On Track,Pending,Permits,,Yes,48883,Yes,Not Started,,,,,,3940,,3940,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW431,Kissimmee,46379,,,,,88,On Track,Pending,Permits,,Yes,83382,Yes,Not Started,,,,,,6855,,6855,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW432,Kissimmee,46415,,,,,90,On Track,Pending,Permits,,Yes,88834,Yes,Not Started,,,,,,7147,,7147,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW433,Kissimmee,46487,,,,,83,On Track,Pending,Permits,,Yes,81027.5,Yes,Not Started,,,,,,6376,,6376,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW434,Kissimmee,46415,,,,,63,On Track,Pending,Permits,,Yes,60264,Yes,Not Started,,,,,,4784,,4784,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW435,Kissimmee,46367,,,,,86,On Track,Pending,Permits,,Yes,81096,Yes,Not Started,,,,,,6387,,6387,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW436,Kissimmee,46367,,,,,81,On Track,Pending,Permits,,Yes,79796,Yes,Not Started,,,,,,6372,,6372,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW437,Kissimmee,46379,,,,,77,On Track,Pending,Permits,,Yes,69082,Yes,Not Started,,,,,,5363,,5363,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW438,Kissimmee,46379,,,,,67,On Track,Pending,Permits,,Yes,65448,Yes,Not Started,,,,,,5199,,5199,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW439,Kissimmee,46379,,,,,90,On Track,Pending,Permits,,Yes,116020.5,Yes,Not Started,,,,,,9771,,9771,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW440,Kissimmee,46379,,,,,90,On Track,Pending,Permits,,Yes,114306,Yes,Not Started,,,,,,9562,,9562,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW441,Kissimmee,46351,,,,,87,On Track,Pending,Permits,,Yes,80784,Yes,Not Started,,,,,,6309,,6309,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW442,Kissimmee,46379,,,,,90,On Track,Pending,Permits,,Yes,125540.85,Yes,Not Started,,,,,,10260,,10260,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW443,Kissimmee,46487,,,,,89,On Track,Pending,Permits,,Yes,119327,Yes,Not Started,,,,,,10080,,10080,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW444,Kissimmee,46340,,,,,76,On Track,Pending,Permits,,Yes,85720,Yes,Not Started,,,,,,6859,,6859,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW445,Kissimmee,46340,,,,,84,On Track,Pending,Permits,,Yes,75682,Yes,Not Started,,,,,,5873,,5873,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW446,Kissimmee,46340,,,,,55,On Track,Pending,Permits,,Yes,60784,Yes,Not Started,,,,,,4945,,4945,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW447,Kissimmee,46367,,,,,54,On Track,Pending,Permits,,Yes,52670,Yes,Not Started,,,,,,4275,,4275,,,,0,0,0,2/11 Pending Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HSW448,Kissimmee,46379,,,,,88,On Track,Received,,,Yes,86455.5,No,Not Started,,,,,,6378,,6378,,,,0,0,0,7/30 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HSW406,Kissimmee,46318,,,,,0,On Track,Received,,,Yes,94474.5,No,Not Started,,,,,,7373,,7373,,,,0,0,0,7/30 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HSW416,Kissimmee,46318,,,Miguel,,0,On Track,Pending,Permits,,Yes,74145.85,Yes,Not Started,,,,,,5781,,5781,,,,0,0,0,7/24 NTP Package Recived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HSW417,Kissimmee,46318,,,,,0,On Track,Received,,,No,,No,Not Started,,,,,,9051,,9051,,,,0,0,0,2/11 Pending SOW and Permit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HSW419,Kissimmee,46318,,,,,0,On Track,Pending,Permits,,Yes,9232.4,Yes,Not Started,,,,,,7261,,7261,,,,0,0,0,6/10 NTP Package Received With Permit.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HSW425,Kissimmee,46367,BICOM,46238,Miguel,,0,On Track,Received,,46239,Yes,126441.9,Yes,Locates Called,46240,,,,,9638,,9638,,,,0,0,0,8/4 PO Received--FDOT Permit Received.Locates called 8-6/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HSW443,Kissimmee,46318,,,,,0,On Track,Received,,,Yes,111398.8,Yes,Not Started,,,,,,8746,,8746,,,,0,0,0,7/30 PO Received,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Market 10 NTP Number,AREA,SOW TSD Date,Vendor Assignment,Date Assigned,Assigned Supervisor,Penguin ID,HHP,On Track or In Jeopardy,Permit Status,Blockers/Risks,Door Tag Date,SOW Received,SOW Estimated Cost,NTP Received,Constuction Status,Locate Date,Restoration Completed,QC Requested Date,QC Sheet Phase 1 Received ,QC Sheet Phase 2 Received ,Footage UG,Actual Redline Completed Footage UG,Footage Remaining,UG Percentage Complete,Construction Start Date,Construction End Date,Fiber Placement  Percentage Complete,Splicing Percentage Complete,Fiber Placement and Splice Only Footage ,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HBR257,Miami,46387,Yosep AER,46029,Jose,,87,On Track,Received,,46198,Yes,108458.4,Yes,In Process,46190,,,,,8596,8403,193,0.977547696603071,46203,,0,0,0,12/24 NTP Package Received. Assigned to Yosep 1/7/26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HBR258,Miami,46326,,46029,Jose,,70,On Track,Received,,,Yes,70105.25,Yes,In Process,46213,,,,,5648,5462,186,0.967067988668555,,,0,0,0,12/24 NTP Package Received. Assigned to Yosep 1/7/26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HBR259,Miami,46387,,,,,77,On Track,Received,,,Yes,78047.35,Yes,Locates Called,46241,,,,,6238,,6238,0,,,0,0,0,12/24 NTP Package Received. Assigned to Yosep 1/7/26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HBR260,Miami,46387,,46029,Jose,,52,On Track,Received,,,Yes,91411.65,Yes,Not Started,,,,,,5926,,5926,0,,,0,0,0,12/24 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HBR261,Miami,46387,,46029,Jose,,81,On Track,Received,,,Yes,105892.05,Yes,Not Started,,,,,,8641,,8641,0,,,0,0,0,12/24 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D-HBR262,Miami,46387,,46029,Jose,,79,On Track,Received,,,Yes,88420,Yes,Not Started,,,,,,7502,,7502,0,,,0,0,0,12/24 NTP Package Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FB-HBR252,Miami,46173,Yosep AER,46029,Jose,,0,On Track,Received,,,Yes,50239.7,Yes,In Process,46024,,,,,3682,3438,244,0.933731667571972,46155,,0.5,0,0,12/24 NTP Package Received--Pending Fiber Details Splicing Document. Assigned to Yosep 1/7/26. 4/2 Pending Canal Permit From Tillman. 5/5 PO Received.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
